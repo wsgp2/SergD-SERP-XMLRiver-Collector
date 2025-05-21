@@ -1,4 +1,9 @@
-# 🔍 SergD SERP Collector - Сборщик поисковой выдачи
+# 🔍 SergD - SERP XMLRiver Collector - Сборщик поисковой выдачи
+
+## 👨‍💻 Автор
+
+Sergei Dyshkant (SergD)
+* Telegram: [@sergei_dyshkant](https://t.me/sergei_dyshkant)
 
 ## 📋 Описание
 

@@ -2,9 +2,9 @@
   "query": "кредиты малому бизнесу",
   "city": "Москва",
   "cityCode": 213,
-  "timestamp": "2025-05-21T04:31:39.014Z",
+  "timestamp": "2025-05-21T05:27:44.430Z",
   "yandex": {
-    "totalResults": 108,
+    "totalResults": 46,
     "results": [
       {
         "url": "https://mspbank.ru/credit/!preferential/",
@@ -31,7 +31,7 @@
         "globalPosition": 3
       },
       {
-        "url": "https://pskb.com/press-center/news/primsotsbank-rasshiryaet-vozmozhnosti-dlya-malogo-i-srednego-biznesa-kreditnaya-liniya-bez-zaloga/",
+        "url": "https://www.LockoBank.ru/personal/kredit/srazu/",
         "title": "Результат #4",
         "snippet": "",
         "position": 4,
@@ -39,7 +39,7 @@
         "globalPosition": 4
       },
       {
-        "url": "https://e-kontur.ru/enquiry/2395/lgoty-i-gospodderzhka-dlya-ip-i-malogo-biznesa",
+        "url": "https://www.akbars.ru/small-business/credits/investicionnyj-dlya-msp/",
         "title": "Результат #5",
         "snippet": "",
         "position": 5,
@@ -47,7 +47,7 @@
         "globalPosition": 5
       },
       {
-        "url": "https://www.LockoBank.ru/personal/kredit/srazu/",
+        "url": "https://distribution.biocard.com/services/smallbusiness/credit.php",
         "title": "Результат #6",
         "snippet": "",
         "position": 6,
@@ -55,7 +55,7 @@
         "globalPosition": 6
       },
       {
-        "url": "https://www.akbars.ru/small-business/credits/investicionnyj-dlya-msp/",
+        "url": "https://armavir.vbr.ru/banki/prosto-bank/kredity-dlya-biznesa/",
         "title": "Результат #7",
         "snippet": "",
         "position": 7,
@@ -63,7 +63,7 @@
         "globalPosition": 7
       },
       {
-        "url": "https://www.klerk.ru/blogs/akbars/648023/",
+        "url": "https://mfcrb.ru/faq/programmy-lgotnogo-kreditovaniya-malogo-i-srednego-biznesa-stimulirovanie-kreditovaniya-subektov-msp/",
         "title": "Результат #8",
         "snippet": "",
         "position": 8,
@@ -71,7 +71,7 @@
         "globalPosition": 8
       },
       {
-        "url": "https://seller.ozon.ru/media/money/lizing-faktoring-kredit-biznes-ipoteka-kak-ponyat-chto-nuzhno-biznesu/",
+        "url": "https://mosbk.ru/services/dlia-biznesa/ip/kredit-na-ip-dlya-razvitiya-biznesa/",
         "title": "Результат #9",
         "snippet": "",
         "position": 9,
@@ -79,7 +79,7 @@
         "globalPosition": 9
       },
       {
-        "url": "https://mosbk.ru/services/dlia-biznesa/ip/kredit-na-ip-dlya-razvitiya-biznesa/",
+        "url": "https://www.economy.gov.ru/material/news/predprinimateli_poluchili_pervye_investicionnye_kredity_po_lgotnoy_programme_pravitelstva_rossii.html",
         "title": "Результат #10",
         "snippet": "",
         "position": 10,
@@ -87,36 +87,100 @@
         "globalPosition": 10
       },
       {
-        "url": "https://мойбизнес.рф/?erid=2RanykwWFSR",
-        "title": "Результат #1",
+        "url": "https://secrets.tbank.ru/razvitie/promyshlennaya-ipoteka/",
+        "title": "Результат #2",
         "snippet": "",
-        "position": 1,
-        "page": 3,
+        "position": 2,
+        "page": 2,
         "globalPosition": 11
       },
       {
-        "url": "https://sankt-peterburg.finexpert24.ru/poleznye-materialy/articles/vidy-kreditov-2/kredity-malomu-biznesu/",
+        "url": "https://www.fskmb.ru/about/news/vzglyad-ekspertov/Overview-of-the-SME-lending-market-on-03.01.2025/",
+        "title": "Результат #3",
+        "snippet": "",
+        "position": 3,
+        "page": 2,
+        "globalPosition": 12
+      },
+      {
+        "url": "https://www.RBC.ru/spb_sz/19/05/2025/6828f7a19a79479825c004f9",
+        "title": "Результат #4",
+        "snippet": "",
+        "position": 4,
+        "page": 2,
+        "globalPosition": 13
+      },
+      {
+        "url": "https://kurchatov.money-mentor.ru/blog/kak-i-gde-oformit-mikrozaym-dlya-biznesa/",
+        "title": "Результат #5",
+        "snippet": "",
+        "position": 5,
+        "page": 2,
+        "globalPosition": 14
+      },
+      {
+        "url": "https://rspp.ru/events/news/vtb-vydal-pervye-kredity-msp-po-novoy-lgotnoy-programme-6811f1a75aed5/",
+        "title": "Результат #6",
+        "snippet": "",
+        "position": 6,
+        "page": 2,
+        "globalPosition": 15
+      },
+      {
+        "url": "https://incrussia.ru/news/v-vologodskoj-oblasti-vydayut-lgotnye-kredity-na-otkrytie-kafe-i-pekaren-vmesto-alkomarketov/",
+        "title": "Результат #7",
+        "snippet": "",
+        "position": 7,
+        "page": 2,
+        "globalPosition": 16
+      },
+      {
+        "url": "https://vc.ru/services/1537733-kredity-dlya-malogo-biznesa-v-2020-godu-15052025",
+        "title": "Результат #8",
+        "snippet": "",
+        "position": 8,
+        "page": 2,
+        "globalPosition": 17
+      },
+      {
+        "url": "https://iturupbank.ru/cards_credit",
+        "title": "Результат #9",
+        "snippet": "",
+        "position": 9,
+        "page": 2,
+        "globalPosition": 18
+      },
+      {
+        "url": "https://uralsib.ru/blog/bank-uralsib-voshel-v-top-10-po-obemam-kreditovaniya-malogo-i-srednego-biznesa_2024",
+        "title": "Результат #10",
+        "snippet": "",
+        "position": 10,
+        "page": 2,
+        "globalPosition": 19
+      },
+      {
+        "url": "https://vc.ru/master-finansov/1560024-vzyat-kredit-dlya-ip-kakie-banki-vydayut-reiting-top-2024-2025-goda-26042025",
         "title": "Результат #2",
         "snippet": "",
         "position": 2,
         "page": 3,
-        "globalPosition": 12
+        "globalPosition": 20
       },
       {
-        "url": "https://news.mail.ru/economics/65850333/",
+        "url": "https://wwwnalog.gnivc.ru/rn77/msp_support/",
         "title": "Результат #3",
         "snippet": "",
         "position": 3,
         "page": 3,
-        "globalPosition": 13
+        "globalPosition": 21
       },
       {
-        "url": "https://web.archive.org/web/20231203001713/https://www.vtb.ru/malyj-biznes/tarify-i-komissii/",
+        "url": "https://AlfaBank.ru/news/t/release/alfa-bank-priznan-luchshim-chastnim-bankom-po-obemu-vidannikh-kreditov-i-velichine-portfelya-msb-2024/",
         "title": "Результат #4",
         "snippet": "",
         "position": 4,
         "page": 3,
-        "globalPosition": 14
+        "globalPosition": 22
       },
       {
         "url": "https://ura.news/articles/1036291287",
@@ -124,763 +188,203 @@
         "snippet": "",
         "position": 5,
         "page": 3,
-        "globalPosition": 15
+        "globalPosition": 23
       },
       {
-        "url": "https://vc.ru/zajmy/1560024-vzyat-kredit-dlya-ip-kakie-banki-vydayut-reiting-top-2024-2025-goda-14052025",
+        "url": "https://credit24.ru/stati/kredit-na-biznes-kakoy-protsent/",
         "title": "Результат #6",
         "snippet": "",
         "position": 6,
         "page": 3,
-        "globalPosition": 16
+        "globalPosition": 24
       },
       {
-        "url": "https://uralsib.ru/blog/bank-uralsib-voshel-v-top-10-po-obemam-kreditovaniya-malogo-i-srednego-biznesa_2024",
+        "url": "https://zemlya.kamgov.ru/mingosim/news/ne-menee-120-mlrd-rublej-smogut-polucit-msp-pod-zonticnye-porucitelstva-v-iule-sentabre-2024-goda-74191",
         "title": "Результат #7",
         "snippet": "",
         "position": 7,
         "page": 3,
-        "globalPosition": 17
+        "globalPosition": 25
       },
       {
-        "url": "https://66.ru/bank/news/releases/280624/",
+        "url": "https://finfax.ru/news/alifa-bank-stal-liderom-po-kreditovaniyu-malogo-biznesa-v-2024-2025-04-25",
         "title": "Результат #8",
         "snippet": "",
         "position": 8,
         "page": 3,
-        "globalPosition": 18
+        "globalPosition": 26
       },
       {
-        "url": "https://ipotekaicredit.ru/blog/2025/04/24/novye-formy-kreditnogo-obespecheniya-dlya-malogo-biznesa/",
+        "url": "https://www.nsk.kp.ru/online/news/6345300/",
         "title": "Результат #9",
         "snippet": "",
         "position": 9,
         "page": 3,
-        "globalPosition": 19
+        "globalPosition": 27
       },
       {
-        "url": "https://incrussia.ru/news/v-vologodskoj-oblasti-vydayut-lgotnye-kredity-na-otkrytie-kafe-i-pekaren-vmesto-alkomarketov/",
+        "url": "https://www.vedomosti.ru/finance/news/2025/04/30/1107666-vtb-nachal-vidavat",
         "title": "Результат #10",
         "snippet": "",
         "position": 10,
         "page": 3,
-        "globalPosition": 20
-      },
-      {
-        "url": "https://www.attestaciya-nok-r-f-pomoshch.ru/200525/novosti-sberbank-rf-malyj-biznes/",
-        "title": "Результат #1",
-        "snippet": "",
-        "position": 1,
-        "page": 4,
-        "globalPosition": 21
-      },
-      {
-        "url": "https://sd-r.ru/services/",
-        "title": "Результат #2",
-        "snippet": "",
-        "position": 2,
-        "page": 4,
-        "globalPosition": 22
-      },
-      {
-        "url": "https://www.shtampik.com/photo/lgotniye-programmiy-dlya-malogo-biznesa/85",
-        "title": "Результат #3",
-        "snippet": "",
-        "position": 3,
-        "page": 4,
-        "globalPosition": 23
-      },
-      {
-        "url": "https://24rus.ru/news/finance/58904.html?print",
-        "title": "Результат #4",
-        "snippet": "",
-        "position": 4,
-        "page": 4,
-        "globalPosition": 24
-      },
-      {
-        "url": "https://myfin.by/bank/mtbank/kredity/business/marina_gorka",
-        "title": "Результат #5",
-        "snippet": "",
-        "position": 5,
-        "page": 4,
-        "globalPosition": 25
-      },
-      {
-        "url": "https://www.raise-ranepa.ru/190525/novosti-alfa-bank-dlya-biznesa-kredit/",
-        "title": "Результат #6",
-        "snippet": "",
-        "position": 6,
-        "page": 4,
-        "globalPosition": 26
-      },
-      {
-        "url": "https://pikabu.ru/story/kredit_na_razvitie_i_otkryitie_biznesa__top_banki_dlya_vyidachi_kredita_na_razvitie_malogo_biznesa_s_nulya_12651882",
-        "title": "Результат #7",
-        "snippet": "",
-        "position": 7,
-        "page": 4,
-        "globalPosition": 27
-      },
-      {
-        "url": "https://www.kommersant.ru/doc/7736652",
-        "title": "Результат #8",
-        "snippet": "",
-        "position": 8,
-        "page": 4,
         "globalPosition": 28
       },
       {
-        "url": "https://svoefermerstvo.ru/svoemedia/articles/gosprogramma-razvitija-apk-izmenenija-2025-goda",
-        "title": "Результат #9",
+        "url": "https://бк96.рф/tpost/9or75zmdx1-kak-vibrat-optimalnii-kredit-dlya-malogo",
+        "title": "Результат #1",
         "snippet": "",
-        "position": 9,
+        "position": 1,
         "page": 4,
         "globalPosition": 29
       },
       {
-        "url": "https://www.stomchina32.ru/200525/novosti-kredit-vtb-dlya-biznesa/",
-        "title": "Результат #10",
+        "url": "https://snegsol.ru/poleznaya-informatsiya/kredity-malomu-biznesu-gde-vzyat/",
+        "title": "Результат #2",
         "snippet": "",
-        "position": 10,
+        "position": 2,
         "page": 4,
         "globalPosition": 30
       },
       {
-        "url": "https://app.maski.bizmall.ru/blog/investoru/revolyutsiya-na-kreditnom-rynke-kak-obychnye-lyudi-zamenyayut-banki-i-zarabatyvayut-na-vydache-zaymo/",
-        "title": "Результат #1",
-        "snippet": "",
-        "position": 1,
-        "page": 5,
-        "globalPosition": 31
-      },
-      {
-        "url": "https://rassrochkicard.ru/kredit-dlya-malogo-biznesa-v-mahachkale/",
-        "title": "Результат #2",
-        "snippet": "",
-        "position": 2,
-        "page": 5,
-        "globalPosition": 32
-      },
-      {
-        "url": "https://www.tea-talk.ru/200525/novosti-sberbank-kredit-dlya-yuridicheskih-lits/",
+        "url": "https://dtf.ru/dengi/3476324-zaimy-dlya-biznesa-bez-zaloga-kredit-onlain-na-kartu-bez-posesheniya-banka-i-ofisa-na-kartu-top-17-mfo-i-mkk-2024-2025-goda-21052025",
         "title": "Результат #3",
         "snippet": "",
         "position": 3,
-        "page": 5,
-        "globalPosition": 33
+        "page": 4,
+        "globalPosition": 31
       },
       {
-        "url": "https://mgavm.ru/sveden/files/rid/OP.16_Osnovy_predprinimatelystva_i_finansovoi_gramotnosti(2).pdf",
+        "url": "https://credit24.ru/stati/kak-mozhno-poluchit-kredit-na-malyy-biznes/",
         "title": "Результат #4",
         "snippet": "",
         "position": 4,
-        "page": 5,
-        "globalPosition": 34
+        "page": 4,
+        "globalPosition": 32
       },
       {
-        "url": "https://ranepa-moscow.ru/pressroom/news/vklyuchenie_gosudarstvennih_mfo_sistemu_podderzhki_sub_8166.html",
+        "url": "https://study.schoolvrn.ru/maliy_i_sredniy_biznes_obuchenie_ot_bankov",
         "title": "Результат #5",
         "snippet": "",
         "position": 5,
-        "page": 5,
-        "globalPosition": 35
+        "page": 4,
+        "globalPosition": 33
       },
       {
-        "url": "http://www.ростагрнц.рф/files/2025/05/2025_Sbornik_konferentsii_FSBSI FRARC FRARC-266-272.pdf",
-        "title": "Результат #6",
-        "snippet": "",
-        "position": 6,
-        "page": 5,
-        "globalPosition": 36
-      },
-      {
-        "url": "https://tass.ru/ekonomika/23986233",
+        "url": "https://www.energotransbank.com/repo/ped/docs/corp/credit-corp/standard/SME-2025-05-12/2025-05-12-msb-overdraft.pdf",
         "title": "Результат #7",
         "snippet": "",
         "position": 7,
+        "page": 4,
+        "globalPosition": 34
+      },
+      {
+        "url": "https://vk.com/wall-224309520_76",
+        "title": "Результат #8",
+        "snippet": "",
+        "position": 8,
+        "page": 4,
+        "globalPosition": 35
+      },
+      {
+        "url": "https://www.rshb.ru/business/small/kbr",
+        "title": "Результат #10",
+        "snippet": "",
+        "position": 10,
+        "page": 4,
+        "globalPosition": 36
+      },
+      {
+        "url": "https://www.Avito.ru/all/predlozheniya_uslug/delovye_uslugi-ASgBAgICAUSYC7KfAQ?q=помощь в получении кредита для ИП",
+        "title": "Результат #1",
+        "snippet": "",
+        "position": 1,
         "page": 5,
         "globalPosition": 37
       },
       {
-        "url": "https://www.kazan-potolok.ru/200525/novosti-alfa-bank-dlya-biznesa-kredit/",
-        "title": "Результат #8",
+        "url": "https://kld-journal.fedlab.ru/osnk-sr2024/article/view/632815",
+        "title": "Результат #2",
         "snippet": "",
-        "position": 8,
+        "position": 2,
         "page": 5,
         "globalPosition": 38
       },
       {
-        "url": "https://studfile.info/files1/Кредит в рыночной экономике.pdf",
-        "title": "Результат #9",
+        "url": "https://marketpower.pro/publications/eksperty-prognoziruiut-zamedlenie-kreditovaniia-malogo-i-srednego-biznesa-v-2025-godu",
+        "title": "Результат #3",
         "snippet": "",
-        "position": 9,
+        "position": 3,
         "page": 5,
         "globalPosition": 39
       },
       {
-        "url": "http://government.ru/news/55055/",
-        "title": "Результат #10",
+        "url": "https://www.shtampik.com/photo/lgotniye-programmiy-dlya-malogo-biznesa/19",
+        "title": "Результат #4",
         "snippet": "",
-        "position": 10,
+        "position": 4,
         "page": 5,
         "globalPosition": 40
       },
       {
-        "url": "https://finfax.ru/news/alifa-bank-stal-liderom-po-kreditovaniyu-malogo-biznesa-v-2024-2025-04-25",
-        "title": "Результат #1",
+        "url": "https://cyberleninka.ru/article/n/analiz-bankovskogo-kreditovaniya-malogo-i-srednego-biznesa",
+        "title": "Результат #5",
         "snippet": "",
-        "position": 1,
-        "page": 6,
+        "position": 5,
+        "page": 5,
         "globalPosition": 41
       },
       {
-        "url": "https://www.forbes.ru/finansy/535834-analitiki-sprognozirovali-rost-prosrocki-i-restrukturizacij-dolgov-malogo-biznesa",
-        "title": "Результат #2",
+        "url": "https://nisse.ru/articles/research/details.php?ELEMENT_ID=134600",
+        "title": "Результат #6",
         "snippet": "",
-        "position": 2,
-        "page": 6,
+        "position": 6,
+        "page": 5,
         "globalPosition": 42
       },
       {
-        "url": "https://finance.rambler.ru/business/54686260-mihail-mishustin-poobeschal-podderzhku-malomu-i-srednemu-biznesu/",
-        "title": "Результат #3",
+        "url": "https://gradmsk.ru/video/bb9e05edb62b4a79fc4e8863dbf32a0c/",
+        "title": "Результат #7",
         "snippet": "",
-        "position": 3,
-        "page": 6,
+        "position": 7,
+        "page": 5,
         "globalPosition": 43
       },
       {
-        "url": "https://www.dk.ru/news/237221577?erid=2W5zFGZGPdA",
-        "title": "Результат #4",
+        "url": "https://finance.rambler.ru/business/54686260-mihail-mishustin-poobeschal-podderzhku-malomu-i-srednemu-biznesu/",
+        "title": "Результат #8",
         "snippet": "",
-        "position": 4,
-        "page": 6,
+        "position": 8,
+        "page": 5,
         "globalPosition": 44
       },
       {
-        "url": "https://www.ESphere.ru/blog/gosudarstvennye-mery-podderzhki-dlya-malogo-i-srednego-biznesa-v-2025-godu/).",
-        "title": "Результат #5",
+        "url": "https://mkb.ru/personal/credits/selflocking",
+        "title": "Результат #9",
         "snippet": "",
-        "position": 5,
-        "page": 6,
+        "position": 9,
+        "page": 5,
         "globalPosition": 45
       },
       {
-        "url": "https://www.asau.ru/sveden/files/riu/B1.V.17_Organizaciya_predprinim_deyatelynosti.pdf",
-        "title": "Результат #6",
+        "url": "https://sd-r.ru/services/",
+        "title": "Результат #10",
         "snippet": "",
-        "position": 6,
-        "page": 6,
+        "position": 10,
+        "page": 5,
         "globalPosition": 46
-      },
-      {
-        "url": "https://gidropribor.ru/press/newspages/limit-lgotnoy-programmy-investkreditovaniya-malogo-i-srednego-biznesa-pod-4-i-25-uvelichen-vdvoe.html",
-        "title": "Результат #7",
-        "snippet": "",
-        "position": 7,
-        "page": 6,
-        "globalPosition": 47
-      },
-      {
-        "url": "https://tass.ru/ekonomika/23823011",
-        "title": "Результат #8",
-        "snippet": "",
-        "position": 8,
-        "page": 6,
-        "globalPosition": 48
-      },
-      {
-        "url": "https://www.mos.ru/news/item/153259073/",
-        "title": "Результат #9",
-        "snippet": "",
-        "position": 9,
-        "page": 6,
-        "globalPosition": 49
-      },
-      {
-        "url": "https://www.shtampik.com/photo/msp-programmiy-kreditovaniya/6",
-        "title": "Результат #10",
-        "snippet": "",
-        "position": 10,
-        "page": 6,
-        "globalPosition": 50
-      },
-      {
-        "url": "https://www.akcept.ru/corporate_customers/guarantee/",
-        "title": "Результат #1",
-        "snippet": "",
-        "position": 1,
-        "page": 7,
-        "globalPosition": 51
-      },
-      {
-        "url": "https://marketpower.pro/publications/eksperty-prognoziruiut-zamedlenie-kreditovaniia-malogo-i-srednego-biznesa-v-2025-godu",
-        "title": "Результат #2",
-        "snippet": "",
-        "position": 2,
-        "page": 7,
-        "globalPosition": 52
-      },
-      {
-        "url": "http://www.ростагрнц.рф/files/2025/05/2025_Sbornik_konferentsii_FSBSI FRARC FRARC-272-277.pdf",
-        "title": "Результат #3",
-        "snippet": "",
-        "position": 3,
-        "page": 7,
-        "globalPosition": 53
-      },
-      {
-        "url": "https://parmanews.ru/novost/companynews/112956/",
-        "title": "Результат #5",
-        "snippet": "",
-        "position": 5,
-        "page": 7,
-        "globalPosition": 54
-      },
-      {
-        "url": "https://www.forbes.ru/novosti-kompaniy/536163-stolicnyj-malyj-biznes-polucit-finansirovanie-po-l-gotnoj-programme-v-ob-eme-350-mln",
-        "title": "Результат #6",
-        "snippet": "",
-        "position": 6,
-        "page": 7,
-        "globalPosition": 55
-      },
-      {
-        "url": "https://pskb.com/auto/prestige/",
-        "title": "Результат #7",
-        "snippet": "",
-        "position": 7,
-        "page": 7,
-        "globalPosition": 56
-      },
-      {
-        "url": "https://RosComLand.ru/lgotnoe/kreditovanie/malogo/predprinimatelstva/",
-        "title": "Результат #8",
-        "snippet": "",
-        "position": 8,
-        "page": 7,
-        "globalPosition": 57
-      },
-      {
-        "url": "https://finance.rambler.ru/business/54688945-kabmin-rassmatrivaet-vvedenie-kategorii-msp-dlya-pomoschi-malomu-biznesu/",
-        "title": "Результат #9",
-        "snippet": "",
-        "position": 9,
-        "page": 7,
-        "globalPosition": 58
-      },
-      {
-        "url": "https://study.schoolvrn.ru/maliy_i_sredniy_biznes_obuchenie_ot_bankov",
-        "title": "Результат #10",
-        "snippet": "",
-        "position": 10,
-        "page": 7,
-        "globalPosition": 59
-      },
-      {
-        "url": "https://rspp.ru/events/news/vtb-vydal-pervye-kredity-msp-po-novoy-lgotnoy-programme-6811f1a75aed5/",
-        "title": "Результат #1",
-        "snippet": "",
-        "position": 1,
-        "page": 8,
-        "globalPosition": 60
-      },
-      {
-        "url": "https://www.yuga.ru/news/477453-uralsib-voshel-v-top-10-bankov-po-obemam-kreditovaniya-malogo-i-srednego-biznesa/",
-        "title": "Результат #4",
-        "snippet": "",
-        "position": 4,
-        "page": 8,
-        "globalPosition": 61
-      },
-      {
-        "url": "https://mspvolga.ru/novosti/novosti_3076.html",
-        "title": "Результат #8",
-        "snippet": "",
-        "position": 8,
-        "page": 8,
-        "globalPosition": 62
-      },
-      {
-        "url": "https://AlfaBank.ru/news/t/release/alfa-bank-priznan-luchshim-chastnim-bankom-po-obemu-vidannikh-kreditov-i-velichine-portfelya-msb-2024/",
-        "title": "Результат #10",
-        "snippet": "",
-        "position": 10,
-        "page": 8,
-        "globalPosition": 63
-      },
-      {
-        "url": "https://dzen.ru/a/aAnjADtc7VcIWTaL",
-        "title": "Результат #8",
-        "snippet": "",
-        "position": 8,
-        "page": 9,
-        "globalPosition": 64
-      },
-      {
-        "url": "https://мориз.рф/services/smallbusiness/credit.php",
-        "title": "Результат #9",
-        "snippet": "",
-        "position": 9,
-        "page": 9,
-        "globalPosition": 65
-      },
-      {
-        "url": "https://www.banki.ru/news/lenta/?id=11013675",
-        "title": "Результат #10",
-        "snippet": "",
-        "position": 10,
-        "page": 9,
-        "globalPosition": 66
-      },
-      {
-        "url": "https://автошкола-светофор.рф/services/smallbusiness/credit.php",
-        "title": "Результат #1",
-        "snippet": "",
-        "position": 1,
-        "page": 10,
-        "globalPosition": 67
-      },
-      {
-        "url": "https://www.4dk.ru/content/art/36178-cplus-kak-malomu-biznesu-poluchit-gospodderzhku-subsidii-grantyi-i-lgotnyie-kredityi-20250514",
-        "title": "Результат #2",
-        "snippet": "",
-        "position": 2,
-        "page": 10,
-        "globalPosition": 68
-      },
-      {
-        "url": "https://energobank.ru/about/press-center/category/chastnym-klientam/detail/223055/",
-        "title": "Результат #3",
-        "snippet": "",
-        "position": 3,
-        "page": 10,
-        "globalPosition": 69
-      },
-      {
-        "url": "https://mbgazeta.ru/arhiv/17-bankov-gotovy-vydavat-lgotnye-kredity-malomu-biznesu/",
-        "title": "Результат #4",
-        "snippet": "",
-        "position": 4,
-        "page": 10,
-        "globalPosition": 70
-      },
-      {
-        "url": "https://raexpert.ru/researches/banks/msb_2024/?erid=2Vfnxwk3TZS",
-        "title": "Результат #5",
-        "snippet": "",
-        "position": 5,
-        "page": 10,
-        "globalPosition": 71
-      },
-      {
-        "url": "https://jur.remontask.ru/articles/kredit-malomu-biznesu-tochka-bank/",
-        "title": "Результат #6",
-        "snippet": "",
-        "position": 6,
-        "page": 10,
-        "globalPosition": 72
-      },
-      {
-        "url": "https://siapress.ru/official/135214-za-2024-god-subektam-malogo-i-srednego-biznesa-bank-uralsib-vidal-kreditov-na-summu-73-1-mlrd-rubley",
-        "title": "Результат #10",
-        "snippet": "",
-        "position": 10,
-        "page": 10,
-        "globalPosition": 73
-      },
-      {
-        "url": "https://vkredit.online/finansirovanie-agrarnogo-biznesa-programmy-i-usloviya/",
-        "title": "Результат #2",
-        "snippet": "",
-        "position": 2,
-        "page": 11,
-        "globalPosition": 74
-      },
-      {
-        "url": "https://ok.ru/group/52840236843114/topic/154722021292906",
-        "title": "Результат #3",
-        "snippet": "",
-        "position": 3,
-        "page": 11,
-        "globalPosition": 75
-      },
-      {
-        "url": "https://www.rody-mental.ru/200525/novosti-sberbank-rf-malyj-biznes/",
-        "title": "Результат #4",
-        "snippet": "",
-        "position": 4,
-        "page": 11,
-        "globalPosition": 76
-      },
-      {
-        "url": "https://www.medovoedelo.ru/200525/novosti-msp-kriterii-otneseniya-v-2024-godu/",
-        "title": "Результат #6",
-        "snippet": "",
-        "position": 6,
-        "page": 11,
-        "globalPosition": 77
-      },
-      {
-        "url": "https://rovnoe.hh.ru/interview/33153",
-        "title": "Результат #7",
-        "snippet": "",
-        "position": 7,
-        "page": 11,
-        "globalPosition": 78
-      },
-      {
-        "url": "https://kikonline.ru/partner/kak-podobrat-kompleksnoe-reshenie-dlja-upravlenija-malym-biznesom-kriterii-vybora-i-varianty-licenzirovanija/",
-        "title": "Результат #8",
-        "snippet": "",
-        "position": 8,
-        "page": 11,
-        "globalPosition": 79
-      },
-      {
-        "url": "https://mskgazeta.ru/ekonomika/mozhet-li-malyj-i-srednij-biznes-perezapustit-rossijskuyu-ekonomiku-14913.html",
-        "title": "Результат #9",
-        "snippet": "",
-        "position": 9,
-        "page": 11,
-        "globalPosition": 80
-      },
-      {
-        "url": "https://ufatime.ru/companies-news/185378-bank-uralsib-voshel-v-top-10-po-obemam-kreditovanija-malogo-i-srednego-biznesa.html",
-        "title": "Результат #10",
-        "snippet": "",
-        "position": 10,
-        "page": 11,
-        "globalPosition": 81
-      },
-      {
-        "url": "https://kontur.ru/articles/56040-mery_naibolee_interesny_predprinimatelyam",
-        "title": "Результат #1",
-        "snippet": "",
-        "position": 1,
-        "page": 12,
-        "globalPosition": 82
-      },
-      {
-        "url": "https://kuban24.tv/item/bank-uralsib-voshel-v-top-10-po-obemam-kreditovaniya-malogo-i-srednego-biznesa",
-        "title": "Результат #2",
-        "snippet": "",
-        "position": 2,
-        "page": 12,
-        "globalPosition": 83
-      },
-      {
-        "url": "https://chel.aif.ru/society/uralsib-popal-v-top-10-po-obemam-kreditovaniya-malogo-i-srednego-biznesa?erid=2W5zFGKwr1n",
-        "title": "Результат #5",
-        "snippet": "",
-        "position": 5,
-        "page": 12,
-        "globalPosition": 84
-      },
-      {
-        "url": "https://fin.znakizodiaka.info/banki-kotoryye-dayut-den-gi-pod-biznes/",
-        "title": "Результат #6",
-        "snippet": "",
-        "position": 6,
-        "page": 12,
-        "globalPosition": 85
-      },
-      {
-        "url": "https://mkb.ru/personal/credits/selflocking",
-        "title": "Результат #7",
-        "snippet": "",
-        "position": 7,
-        "page": 12,
-        "globalPosition": 86
-      },
-      {
-        "url": "https://sudact.ru/vsrf/doc/xLRGiZyErTgx/",
-        "title": "Результат #8",
-        "snippet": "",
-        "position": 8,
-        "page": 12,
-        "globalPosition": 87
-      },
-      {
-        "url": "https://www.bfnv.ru/220425/novosti-alfa-bank-dlya-biznesa-kredit/",
-        "title": "Результат #9",
-        "snippet": "",
-        "position": 9,
-        "page": 12,
-        "globalPosition": 88
-      },
-      {
-        "url": "https://kontursm.ru/tolk/tpost/fb3kgugus1-lgoti-na-kreditovanie-malogo-biznesa-v-2#!/tfeeds/405354382491/c/ЭДО",
-        "title": "Результат #10",
-        "snippet": "",
-        "position": 10,
-        "page": 12,
-        "globalPosition": 89
-      },
-      {
-        "url": "https://iz.ru/1879389/2025-04-30/v-rossii-nacali-vydavat-pervye-lgotnye-investkredity-po-obnovlennoi-programme",
-        "title": "Результат #1",
-        "snippet": "",
-        "position": 1,
-        "page": 13,
-        "globalPosition": 90
-      },
-      {
-        "url": "https://мсп.рф/services/news/detail/malyy-biznes-mozhet-poluchit-zaymy-ot-5-mln-rubley-na-msp-rf-po-stavkam-5-7-godovykh/",
-        "title": "Результат #2",
-        "snippet": "",
-        "position": 2,
-        "page": 13,
-        "globalPosition": 91
-      },
-      {
-        "url": "https://tinkoff.credits.ru/publications/363454/kak-poluchit-bankovskij-kredit-dlya-malogo-biznesa/",
-        "title": "Результат #3",
-        "snippet": "",
-        "position": 3,
-        "page": 13,
-        "globalPosition": 92
-      },
-      {
-        "url": "https://investmoscow.ru/press-center/news-article/?article=325611",
-        "title": "Результат #4",
-        "snippet": "",
-        "position": 4,
-        "page": 13,
-        "globalPosition": 93
-      },
-      {
-        "url": "https://gisp.gov.ru/nmp/measure/12448892",
-        "title": "Результат #5",
-        "snippet": "",
-        "position": 5,
-        "page": 13,
-        "globalPosition": 94
-      },
-      {
-        "url": "https://www.fd.ru/news/62335-obem-prosrochennyh-kreditov-malogo-biznesa-rastet",
-        "title": "Результат #6",
-        "snippet": "",
-        "position": 6,
-        "page": 13,
-        "globalPosition": 95
-      },
-      {
-        "url": "https://elar.urfu.ru/bitstream/10995/142915/1/978-5-91256-730-8_292.pdf",
-        "title": "Результат #7",
-        "snippet": "",
-        "position": 7,
-        "page": 13,
-        "globalPosition": 96
-      },
-      {
-        "url": "https://finance.mail.ru/2025-04-24/eksperty-prognoziruyut-zamedlenie-kreditovaniya-malogo-i-srednego-biznesa-v-2025-godu-65860327/",
-        "title": "Результат #8",
-        "snippet": "",
-        "position": 8,
-        "page": 13,
-        "globalPosition": 97
-      },
-      {
-        "url": "https://www.dr-igonin-clinic-med.ru/220425/novosti-alfa-bank-dlya-biznesa-kredit/",
-        "title": "Результат #9",
-        "snippet": "",
-        "position": 9,
-        "page": 13,
-        "globalPosition": 98
-      },
-      {
-        "url": "https://axis-web.ru/services/smallbusiness/credit.php",
-        "title": "Результат #1",
-        "snippet": "",
-        "position": 1,
-        "page": 14,
-        "globalPosition": 99
-      },
-      {
-        "url": "https://ki-news.ru/news/bank-uralsib-voshel-v-top-10-po-obemam-kreditovaniya-malogo-i-srednego-biznesa-2/",
-        "title": "Результат #2",
-        "snippet": "",
-        "position": 2,
-        "page": 14,
-        "globalPosition": 100
-      },
-      {
-        "url": "https://moda.lookingcafe.ru/luchshie-kredity-malomu-biznesu/",
-        "title": "Результат #3",
-        "snippet": "",
-        "position": 3,
-        "page": 14,
-        "globalPosition": 101
-      },
-      {
-        "url": "https://studycat.ru/kursovaya-s-praktikoj-na-temu-kreditovanie-subektov-malogo-predprinimatelstva-rossijskimi-bankami/",
-        "title": "Результат #4",
-        "snippet": "",
-        "position": 4,
-        "page": 14,
-        "globalPosition": 102
-      },
-      {
-        "url": "https://www.edu-chl.ru/030525/novosti-kredit-vtb-dlya-biznesa/",
-        "title": "Результат #5",
-        "snippet": "",
-        "position": 5,
-        "page": 14,
-        "globalPosition": 103
-      },
-      {
-        "url": "https://www.attestaciya-nok-r-f-pomoshch.ru/020525/novosti-alfa-bank-dlya-biznesa-kredit/",
-        "title": "Результат #6",
-        "snippet": "",
-        "position": 6,
-        "page": 14,
-        "globalPosition": 104
-      },
-      {
-        "url": "https://immunocap.ru/photo/programmiy-lgotniyx-kreditov-dlya-biznesa/25",
-        "title": "Результат #7",
-        "snippet": "",
-        "position": 7,
-        "page": 14,
-        "globalPosition": 105
-      },
-      {
-        "url": "https://credit-fond.ru/podderzhka-fonda-pomogaet-biznesu-vypolnyat-znachimye-proekty/",
-        "title": "Результат #8",
-        "snippet": "",
-        "position": 8,
-        "page": 14,
-        "globalPosition": 106
-      },
-      {
-        "url": "https://new.elitniy.ru/kreditovanie-malogo-i-srednego-biznesa-v-rossii-dostupnost-privlecheniya-finansovyx-resursov/",
-        "title": "Результат #9",
-        "snippet": "",
-        "position": 9,
-        "page": 14,
-        "globalPosition": 107
-      },
-      {
-        "url": "https://kp96.ru/services/smallbusiness/credit.php",
-        "title": "Результат #10",
-        "snippet": "",
-        "position": 10,
-        "page": 14,
-        "globalPosition": 108
       }
     ]
   },
   "google": {
-    "totalResults": 101,
+    "totalResults": 128,
     "results": [
       {
         "url": "https://www.sravni.ru/biznes-kredity/",
         "title": "Результат #1",
         "snippet": "",
         "position": 1,
-        "page": 1,
+        "page": 2,
         "globalPosition": 1
       },
       {
@@ -888,7 +392,7 @@
         "title": "Результат #2",
         "snippet": "",
         "position": 2,
-        "page": 1,
+        "page": 2,
         "globalPosition": 2
       },
       {
@@ -896,7 +400,7 @@
         "title": "Результат #3",
         "snippet": "",
         "position": 3,
-        "page": 1,
+        "page": 2,
         "globalPosition": 3
       },
       {
@@ -904,7 +408,7 @@
         "title": "Результат #4",
         "snippet": "",
         "position": 4,
-        "page": 1,
+        "page": 2,
         "globalPosition": 4
       },
       {
@@ -912,7 +416,7 @@
         "title": "Результат #5",
         "snippet": "",
         "position": 5,
-        "page": 1,
+        "page": 2,
         "globalPosition": 5
       },
       {
@@ -920,7 +424,7 @@
         "title": "Результат #6",
         "snippet": "",
         "position": 6,
-        "page": 1,
+        "page": 2,
         "globalPosition": 6
       },
       {
@@ -928,7 +432,7 @@
         "title": "Результат #7",
         "snippet": "",
         "position": 7,
-        "page": 1,
+        "page": 2,
         "globalPosition": 7
       },
       {
@@ -936,7 +440,7 @@
         "title": "Результат #8",
         "snippet": "",
         "position": 8,
-        "page": 1,
+        "page": 2,
         "globalPosition": 8
       },
       {
@@ -944,7 +448,7 @@
         "title": "Результат #9",
         "snippet": "",
         "position": 9,
-        "page": 1,
+        "page": 2,
         "globalPosition": 9
       },
       {
@@ -952,7 +456,7 @@
         "title": "Результат #10",
         "snippet": "",
         "position": 10,
-        "page": 1,
+        "page": 2,
         "globalPosition": 10
       },
       {
@@ -960,7 +464,7 @@
         "title": "Результат #11",
         "snippet": "",
         "position": 11,
-        "page": 1,
+        "page": 2,
         "globalPosition": 11
       },
       {
@@ -968,7 +472,7 @@
         "title": "Результат #12",
         "snippet": "",
         "position": 12,
-        "page": 1,
+        "page": 2,
         "globalPosition": 12
       },
       {
@@ -976,7 +480,7 @@
         "title": "Результат #13",
         "snippet": "",
         "position": 13,
-        "page": 1,
+        "page": 2,
         "globalPosition": 13
       },
       {
@@ -984,7 +488,7 @@
         "title": "Результат #14",
         "snippet": "",
         "position": 14,
-        "page": 1,
+        "page": 2,
         "globalPosition": 14
       },
       {
@@ -992,7 +496,7 @@
         "title": "Результат #15",
         "snippet": "",
         "position": 15,
-        "page": 1,
+        "page": 2,
         "globalPosition": 15
       },
       {
@@ -1000,7 +504,7 @@
         "title": "Результат #16",
         "snippet": "",
         "position": 16,
-        "page": 1,
+        "page": 2,
         "globalPosition": 16
       },
       {
@@ -1008,7 +512,7 @@
         "title": "Результат #17",
         "snippet": "",
         "position": 17,
-        "page": 1,
+        "page": 2,
         "globalPosition": 17
       },
       {
@@ -1016,7 +520,7 @@
         "title": "Результат #18",
         "snippet": "",
         "position": 18,
-        "page": 1,
+        "page": 2,
         "globalPosition": 18
       },
       {
@@ -1024,7 +528,7 @@
         "title": "Результат #19",
         "snippet": "",
         "position": 19,
-        "page": 1,
+        "page": 2,
         "globalPosition": 19
       },
       {
@@ -1032,7 +536,7 @@
         "title": "Результат #20",
         "snippet": "",
         "position": 20,
-        "page": 1,
+        "page": 2,
         "globalPosition": 20
       },
       {
@@ -1040,7 +544,7 @@
         "title": "Результат #21",
         "snippet": "",
         "position": 21,
-        "page": 1,
+        "page": 2,
         "globalPosition": 21
       },
       {
@@ -1048,7 +552,7 @@
         "title": "Результат #22",
         "snippet": "",
         "position": 22,
-        "page": 1,
+        "page": 2,
         "globalPosition": 22
       },
       {
@@ -1056,7 +560,7 @@
         "title": "Результат #23",
         "snippet": "",
         "position": 23,
-        "page": 1,
+        "page": 2,
         "globalPosition": 23
       },
       {
@@ -1064,7 +568,7 @@
         "title": "Результат #24",
         "snippet": "",
         "position": 24,
-        "page": 1,
+        "page": 2,
         "globalPosition": 24
       },
       {
@@ -1072,7 +576,7 @@
         "title": "Результат #25",
         "snippet": "",
         "position": 25,
-        "page": 1,
+        "page": 2,
         "globalPosition": 25
       },
       {
@@ -1080,7 +584,7 @@
         "title": "Результат #26",
         "snippet": "",
         "position": 26,
-        "page": 1,
+        "page": 2,
         "globalPosition": 26
       },
       {
@@ -1088,7 +592,7 @@
         "title": "Результат #27",
         "snippet": "",
         "position": 27,
-        "page": 1,
+        "page": 2,
         "globalPosition": 27
       },
       {
@@ -1096,7 +600,7 @@
         "title": "Результат #28",
         "snippet": "",
         "position": 28,
-        "page": 1,
+        "page": 2,
         "globalPosition": 28
       },
       {
@@ -1104,7 +608,7 @@
         "title": "Результат #29",
         "snippet": "",
         "position": 29,
-        "page": 1,
+        "page": 2,
         "globalPosition": 29
       },
       {
@@ -1112,7 +616,7 @@
         "title": "Результат #30",
         "snippet": "",
         "position": 30,
-        "page": 1,
+        "page": 2,
         "globalPosition": 30
       },
       {
@@ -1120,7 +624,7 @@
         "title": "Результат #31",
         "snippet": "",
         "position": 31,
-        "page": 1,
+        "page": 2,
         "globalPosition": 31
       },
       {
@@ -1128,7 +632,7 @@
         "title": "Результат #32",
         "snippet": "",
         "position": 32,
-        "page": 1,
+        "page": 2,
         "globalPosition": 32
       },
       {
@@ -1136,7 +640,7 @@
         "title": "Результат #33",
         "snippet": "",
         "position": 33,
-        "page": 1,
+        "page": 2,
         "globalPosition": 33
       },
       {
@@ -1144,7 +648,7 @@
         "title": "Результат #34",
         "snippet": "",
         "position": 34,
-        "page": 1,
+        "page": 2,
         "globalPosition": 34
       },
       {
@@ -1152,7 +656,7 @@
         "title": "Результат #35",
         "snippet": "",
         "position": 35,
-        "page": 1,
+        "page": 2,
         "globalPosition": 35
       },
       {
@@ -1160,7 +664,7 @@
         "title": "Результат #36",
         "snippet": "",
         "position": 36,
-        "page": 1,
+        "page": 2,
         "globalPosition": 36
       },
       {
@@ -1168,7 +672,7 @@
         "title": "Результат #37",
         "snippet": "",
         "position": 37,
-        "page": 1,
+        "page": 2,
         "globalPosition": 37
       },
       {
@@ -1176,7 +680,7 @@
         "title": "Результат #38",
         "snippet": "",
         "position": 38,
-        "page": 1,
+        "page": 2,
         "globalPosition": 38
       },
       {
@@ -1184,7 +688,7 @@
         "title": "Результат #39",
         "snippet": "",
         "position": 39,
-        "page": 1,
+        "page": 2,
         "globalPosition": 39
       },
       {
@@ -1192,7 +696,7 @@
         "title": "Результат #40",
         "snippet": "",
         "position": 40,
-        "page": 1,
+        "page": 2,
         "globalPosition": 40
       },
       {
@@ -1200,7 +704,7 @@
         "title": "Результат #41",
         "snippet": "",
         "position": 41,
-        "page": 1,
+        "page": 2,
         "globalPosition": 41
       },
       {
@@ -1208,7 +712,7 @@
         "title": "Результат #42",
         "snippet": "",
         "position": 42,
-        "page": 1,
+        "page": 2,
         "globalPosition": 42
       },
       {
@@ -1216,7 +720,7 @@
         "title": "Результат #43",
         "snippet": "",
         "position": 43,
-        "page": 1,
+        "page": 2,
         "globalPosition": 43
       },
       {
@@ -1224,7 +728,7 @@
         "title": "Результат #44",
         "snippet": "",
         "position": 44,
-        "page": 1,
+        "page": 2,
         "globalPosition": 44
       },
       {
@@ -1232,7 +736,7 @@
         "title": "Результат #45",
         "snippet": "",
         "position": 45,
-        "page": 1,
+        "page": 2,
         "globalPosition": 45
       },
       {
@@ -1240,7 +744,7 @@
         "title": "Результат #46",
         "snippet": "",
         "position": 46,
-        "page": 1,
+        "page": 2,
         "globalPosition": 46
       },
       {
@@ -1248,7 +752,7 @@
         "title": "Результат #47",
         "snippet": "",
         "position": 47,
-        "page": 1,
+        "page": 2,
         "globalPosition": 47
       },
       {
@@ -1256,7 +760,7 @@
         "title": "Результат #48",
         "snippet": "",
         "position": 48,
-        "page": 1,
+        "page": 2,
         "globalPosition": 48
       },
       {
@@ -1264,7 +768,7 @@
         "title": "Результат #49",
         "snippet": "",
         "position": 49,
-        "page": 1,
+        "page": 2,
         "globalPosition": 49
       },
       {
@@ -1272,7 +776,7 @@
         "title": "Результат #50",
         "snippet": "",
         "position": 50,
-        "page": 1,
+        "page": 2,
         "globalPosition": 50
       },
       {
@@ -1280,7 +784,7 @@
         "title": "Результат #51",
         "snippet": "",
         "position": 51,
-        "page": 1,
+        "page": 2,
         "globalPosition": 51
       },
       {
@@ -1288,7 +792,7 @@
         "title": "Результат #52",
         "snippet": "",
         "position": 52,
-        "page": 1,
+        "page": 2,
         "globalPosition": 52
       },
       {
@@ -1296,7 +800,7 @@
         "title": "Результат #53",
         "snippet": "",
         "position": 53,
-        "page": 1,
+        "page": 2,
         "globalPosition": 53
       },
       {
@@ -1304,7 +808,7 @@
         "title": "Результат #54",
         "snippet": "",
         "position": 54,
-        "page": 1,
+        "page": 2,
         "globalPosition": 54
       },
       {
@@ -1312,7 +816,7 @@
         "title": "Результат #55",
         "snippet": "",
         "position": 55,
-        "page": 1,
+        "page": 2,
         "globalPosition": 55
       },
       {
@@ -1320,7 +824,7 @@
         "title": "Результат #56",
         "snippet": "",
         "position": 56,
-        "page": 1,
+        "page": 2,
         "globalPosition": 56
       },
       {
@@ -1328,7 +832,7 @@
         "title": "Результат #57",
         "snippet": "",
         "position": 57,
-        "page": 1,
+        "page": 2,
         "globalPosition": 57
       },
       {
@@ -1336,7 +840,7 @@
         "title": "Результат #58",
         "snippet": "",
         "position": 58,
-        "page": 1,
+        "page": 2,
         "globalPosition": 58
       },
       {
@@ -1344,7 +848,7 @@
         "title": "Результат #59",
         "snippet": "",
         "position": 59,
-        "page": 1,
+        "page": 2,
         "globalPosition": 59
       },
       {
@@ -1352,7 +856,7 @@
         "title": "Результат #60",
         "snippet": "",
         "position": 60,
-        "page": 1,
+        "page": 2,
         "globalPosition": 60
       },
       {
@@ -1360,328 +864,544 @@
         "title": "Результат #61",
         "snippet": "",
         "position": 61,
-        "page": 1,
+        "page": 2,
         "globalPosition": 61
       },
       {
-        "url": "https://damu.kz/ru/programmi",
+        "url": "https://www.crediteurope.ru/business/loans/",
         "title": "Результат #62",
         "snippet": "",
         "position": 62,
-        "page": 1,
+        "page": 2,
         "globalPosition": 62
       },
       {
-        "url": "https://www.crediteurope.ru/business/loans/",
+        "url": "https://www.agroprombank.com/malomu-biznesu-i-ip/",
         "title": "Результат #63",
         "snippet": "",
         "position": 63,
-        "page": 1,
+        "page": 2,
         "globalPosition": 63
       },
       {
-        "url": "https://www.agroprombank.com/malomu-biznesu-i-ip/",
+        "url": "https://www.otpbank.ru/business/sme/",
         "title": "Результат #64",
         "snippet": "",
         "position": 64,
-        "page": 1,
+        "page": 2,
         "globalPosition": 64
       },
       {
-        "url": "https://www.otpbank.ru/business/sme/",
+        "url": "https://www.sravni.ru/biznes-kredity/bez-zaloga/",
         "title": "Результат #65",
         "snippet": "",
         "position": 65,
-        "page": 1,
+        "page": 2,
         "globalPosition": 65
       },
       {
-        "url": "https://www.sravni.ru/biznes-kredity/bez-zaloga/",
+        "url": "https://www.banki.ru/business/kredit_dlya_biznesa/catalogue/na-razvitie/",
         "title": "Результат #66",
         "snippet": "",
         "position": 66,
-        "page": 1,
+        "page": 2,
         "globalPosition": 66
       },
       {
-        "url": "https://www.banki.ru/business/kredit_dlya_biznesa/catalogue/na-razvitie/",
+        "url": "https://sberbusiness.live/publications/lgotnyj-kredit-dlya-biznesa",
         "title": "Результат #67",
         "snippet": "",
         "position": 67,
-        "page": 1,
+        "page": 2,
         "globalPosition": 67
       },
       {
-        "url": "https://sberbusiness.live/publications/lgotnyj-kredit-dlya-biznesa",
+        "url": "https://www.ab.kg/bankovskie-uslugi-uridicheskim-licam/credits-uridicheskim/business",
         "title": "Результат #68",
         "snippet": "",
         "position": 68,
-        "page": 1,
+        "page": 2,
         "globalPosition": 68
       },
       {
-        "url": "https://www.ab.kg/bankovskie-uslugi-uridicheskim-licam/credits-uridicheskim/business",
+        "url": "https://gba.business.ru/blog/vidy-kreditov-dlya-malogo-i-srednego-biznesa/",
         "title": "Результат #69",
         "snippet": "",
         "position": 69,
-        "page": 1,
+        "page": 2,
         "globalPosition": 69
       },
       {
-        "url": "https://gba.business.ru/blog/vidy-kreditov-dlya-malogo-i-srednego-biznesa/",
+        "url": "https://www.lockobank.ru/articles/kredity/kredit-na-otkrytie-biznesa-s-nulya/",
         "title": "Результат #70",
         "snippet": "",
         "position": 70,
-        "page": 1,
+        "page": 2,
         "globalPosition": 70
       },
       {
-        "url": "https://www.lockobank.ru/articles/kredity/kredit-na-otkrytie-biznesa-s-nulya/",
+        "url": "https://halykbank.kz/business/credit/halyk-predprinimatel",
         "title": "Результат #71",
         "snippet": "",
         "position": 71,
-        "page": 1,
+        "page": 2,
         "globalPosition": 71
       },
       {
-        "url": "https://halykbank.kz/business/credit/halyk-predprinimatel",
+        "url": "https://bankiros.ru/business-credits",
         "title": "Результат #72",
         "snippet": "",
         "position": 72,
-        "page": 1,
+        "page": 2,
         "globalPosition": 72
       },
       {
-        "url": "https://bankiros.ru/business-credits",
+        "url": "https://www.factoring.ru/blog/azbuka-i-propisi-faktoringa/kak-poluchit-kredit-dlya-malogo-biznesa-na-razvitie/",
         "title": "Результат #73",
         "snippet": "",
         "position": 73,
-        "page": 1,
+        "page": 2,
         "globalPosition": 73
       },
       {
-        "url": "https://www.factoring.ru/blog/azbuka-i-propisi-faktoringa/kak-poluchit-kredit-dlya-malogo-biznesa-na-razvitie/",
+        "url": "https://solva.kz/business/msb/",
         "title": "Результат #74",
         "snippet": "",
         "position": 74,
-        "page": 1,
+        "page": 2,
         "globalPosition": 74
       },
       {
-        "url": "https://solva.kz/business/msb/",
+        "url": "https://kontur.ru/articles/4710",
         "title": "Результат #75",
         "snippet": "",
         "position": 75,
-        "page": 1,
+        "page": 2,
         "globalPosition": 75
       },
       {
-        "url": "https://kontur.ru/articles/4710",
+        "url": "https://frankrg.com/wp-content/uploads/2023/11/fc1c250d4517.pdf",
         "title": "Результат #76",
         "snippet": "",
         "position": 76,
-        "page": 1,
+        "page": 2,
         "globalPosition": 76
       },
       {
-        "url": "https://frankrg.com/wp-content/uploads/2023/11/fc1c250d4517.pdf",
+        "url": "https://развивай.рф/business_credits/razvitie_biznesa",
         "title": "Результат #77",
         "snippet": "",
         "position": 77,
-        "page": 1,
+        "page": 2,
         "globalPosition": 77
       },
       {
-        "url": "https://развивай.рф/business_credits/razvitie_biznesa",
+        "url": "https://www.atb.su/business/",
         "title": "Результат #78",
         "snippet": "",
         "position": 78,
-        "page": 1,
+        "page": 2,
         "globalPosition": 78
       },
       {
-        "url": "https://www.atb.su/business/",
+        "url": "https://www.raiffeisen.ru/business/",
         "title": "Результат #79",
         "snippet": "",
         "position": 79,
-        "page": 1,
+        "page": 2,
         "globalPosition": 79
       },
       {
-        "url": "https://www.raiffeisen.ru/business/",
+        "url": "https://www.gazprombank.ru/business/",
         "title": "Результат #80",
         "snippet": "",
         "position": 80,
-        "page": 1,
+        "page": 2,
         "globalPosition": 80
       },
       {
-        "url": "https://www.gazprombank.ru/business/",
+        "url": "https://объясняем.рф/articles/news/biznes-prodolzhit-poluchat-lgotnye-kredity-na-investitsii-/",
         "title": "Результат #81",
         "snippet": "",
         "position": 81,
-        "page": 1,
+        "page": 2,
         "globalPosition": 81
       },
       {
-        "url": "https://объясняем.рф/articles/news/biznes-prodolzhit-poluchat-lgotnye-kredity-na-investitsii-/",
+        "url": "https://мойбизнес.рф/",
         "title": "Результат #82",
         "snippet": "",
         "position": 82,
-        "page": 1,
+        "page": 2,
         "globalPosition": 82
       },
       {
-        "url": "https://мойбизнес.рф/",
+        "url": "https://www.promtransbank.ru/news/1477?new=y",
         "title": "Результат #83",
         "snippet": "",
         "position": 83,
-        "page": 1,
+        "page": 2,
         "globalPosition": 83
       },
       {
-        "url": "https://www.promtransbank.ru/news/1477?new=y",
+        "url": "https://bankdabrabyt.by/small-business/",
         "title": "Результат #84",
         "snippet": "",
         "position": 84,
-        "page": 1,
+        "page": 2,
         "globalPosition": 84
       },
       {
-        "url": "https://bankdabrabyt.by/small-business/",
+        "url": "https://jusan.kz/business",
         "title": "Результат #85",
         "snippet": "",
         "position": 85,
-        "page": 1,
+        "page": 2,
         "globalPosition": 85
       },
       {
-        "url": "https://jusan.kz/business",
+        "url": "https://www.kommersant.ru/doc/7736652",
         "title": "Результат #86",
         "snippet": "",
         "position": 86,
-        "page": 1,
+        "page": 2,
         "globalPosition": 86
       },
       {
-        "url": "https://www.kommersant.ru/doc/7736652",
+        "url": "https://belarusbank.by/ru/fizicheskim_licam/kredit/consumer",
         "title": "Результат #87",
         "snippet": "",
         "position": 87,
-        "page": 1,
+        "page": 2,
         "globalPosition": 87
       },
       {
-        "url": "https://belarusbank.by/ru/fizicheskim_licam/kredit/consumer",
+        "url": "https://www.sber-bank.by/page/business-main",
         "title": "Результат #88",
         "snippet": "",
         "position": 88,
-        "page": 1,
+        "page": 2,
         "globalPosition": 88
       },
       {
-        "url": "https://www.sber-bank.by/page/business-main",
+        "url": "https://www.tbank.ru/business/",
         "title": "Результат #89",
         "snippet": "",
         "position": 89,
-        "page": 1,
+        "page": 2,
         "globalPosition": 89
       },
       {
-        "url": "https://www.tbank.ru/business/",
+        "url": "https://www.otpbank.ru/retail/credits/",
         "title": "Результат #90",
         "snippet": "",
         "position": 90,
-        "page": 1,
+        "page": 2,
         "globalPosition": 90
       },
       {
-        "url": "https://www.otpbank.ru/retail/credits/",
+        "url": "https://economy.gov.ru/material/news/vydan_pervyy_lgotnyy_kredit_malomu_biznesu_pod_65.html",
         "title": "Результат #91",
         "snippet": "",
         "position": 91,
-        "page": 1,
+        "page": 2,
         "globalPosition": 91
       },
       {
-        "url": "https://economy.gov.ru/material/news/vydan_pervyy_lgotnyy_kredit_malomu_biznesu_pod_65.html",
+        "url": "https://ura.news/articles/1036291287",
         "title": "Результат #92",
         "snippet": "",
         "position": 92,
-        "page": 1,
+        "page": 2,
         "globalPosition": 92
       },
       {
-        "url": "https://ura.news/articles/1036291287",
+        "url": "https://www.lockobank.ru/",
         "title": "Результат #93",
         "snippet": "",
         "position": 93,
-        "page": 1,
+        "page": 2,
         "globalPosition": 93
       },
       {
-        "url": "https://www.lockobank.ru/",
+        "url": "https://www.akchabar.kg/loans/business",
         "title": "Результат #94",
         "snippet": "",
         "position": 94,
-        "page": 1,
+        "page": 2,
         "globalPosition": 94
       },
       {
-        "url": "https://www.akchabar.kg/loans/business",
+        "url": "https://www.youtube.com/watch?v=jL3aE-StP7I",
         "title": "Результат #95",
         "snippet": "",
         "position": 95,
-        "page": 1,
+        "page": 2,
         "globalPosition": 95
       },
       {
-        "url": "https://realistbank.ru/",
+        "url": "https://www.priorbank.by/offers/credits/universal-credit/kredit-online",
         "title": "Результат #96",
         "snippet": "",
         "position": 96,
-        "page": 1,
+        "page": 2,
         "globalPosition": 96
       },
       {
-        "url": "https://www.youtube.com/watch?v=jL3aE-StP7I",
+        "url": "https://www.ipotekabank.uz/private/crediting/",
         "title": "Результат #97",
         "snippet": "",
         "position": 97,
-        "page": 1,
+        "page": 2,
         "globalPosition": 97
       },
       {
-        "url": "https://www.priorbank.by/offers/credits/universal-credit/kredit-online",
+        "url": "https://24.kz/ru/news/economyc/710874-kzt750-mlrd-na-lgotnye-kredity-kak-gosudarstvo-podderzhivaet-predprinimatelej",
         "title": "Результат #98",
         "snippet": "",
         "position": 98,
-        "page": 1,
+        "page": 2,
         "globalPosition": 98
       },
       {
-        "url": "https://www.ipotekabank.uz/private/crediting/",
+        "url": "https://cbr.ru/press/event/?id=9619",
         "title": "Результат #99",
         "snippet": "",
         "position": 99,
-        "page": 1,
+        "page": 2,
         "globalPosition": 99
       },
       {
-        "url": "https://msp03.ru/news/news/vse-pro-lgotnoe-kreditovanie-8-5/",
-        "title": "Результат #68",
+        "url": "https://uralsib.ru/business",
+        "title": "Результат #1",
         "snippet": "",
-        "position": 68,
-        "page": 2,
+        "position": 1,
+        "page": 3,
         "globalPosition": 100
       },
       {
-        "url": "https://vsezaimyonline.ru/business/banks/kredity-malogo-biznesa.html",
-        "title": "Результат #86",
+        "url": "https://rosbank.ru/",
+        "title": "Результат #2",
         "snippet": "",
-        "position": 86,
-        "page": 2,
+        "position": 2,
+        "page": 3,
         "globalPosition": 101
+      },
+      {
+        "url": "https://www.belapb.by/chastnomu-klientu/kredity/",
+        "title": "Результат #3",
+        "snippet": "",
+        "position": 3,
+        "page": 3,
+        "globalPosition": 102
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=NrRBoUn53H4",
+        "title": "Результат #4",
+        "snippet": "",
+        "position": 4,
+        "page": 3,
+        "globalPosition": 103
+      },
+      {
+        "url": "https://cita.vbr.ru/banki/baltiiskii-bank-razvitia/kredity-dlya-biznesa/",
+        "title": "Результат #5",
+        "snippet": "",
+        "position": 5,
+        "page": 3,
+        "globalPosition": 104
+      },
+      {
+        "url": "https://www.optimabank.kg/index.php?option=com_content&amp;view=article&amp;id=3773&amp;Itemid=140&amp;lang=ru",
+        "title": "Результат #6",
+        "snippet": "",
+        "position": 6,
+        "page": 3,
+        "globalPosition": 105
+      },
+      {
+        "url": "https://nbu.uz/ru",
+        "title": "Результат #7",
+        "snippet": "",
+        "position": 7,
+        "page": 3,
+        "globalPosition": 106
+      },
+      {
+        "url": "https://mkb.ru/",
+        "title": "Результат #8",
+        "snippet": "",
+        "position": 8,
+        "page": 3,
+        "globalPosition": 107
+      },
+      {
+        "url": "https://www.crediteurope.ru/about/kontakty/",
+        "title": "Результат #9",
+        "snippet": "",
+        "position": 9,
+        "page": 3,
+        "globalPosition": 108
+      },
+      {
+        "url": "https://newsarmenia.am/news/economy/vtb-armeniya-v-2-5-raza-uvelichil-obem-vydachi-kreditov-na-osnove-kreditnoy-istorii-zaemshchika/",
+        "title": "Результат #10",
+        "snippet": "",
+        "position": 10,
+        "page": 3,
+        "globalPosition": 109
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=e-Ua-kj0Gxs",
+        "title": "Результат #11",
+        "snippet": "",
+        "position": 11,
+        "page": 3,
+        "globalPosition": 110
+      },
+      {
+        "url": "https://halykbank.kz/business",
+        "title": "Результат #12",
+        "snippet": "",
+        "position": 12,
+        "page": 3,
+        "globalPosition": 111
+      },
+      {
+        "url": "https://www.zenit.ru/",
+        "title": "Результат #13",
+        "snippet": "",
+        "position": 13,
+        "page": 3,
+        "globalPosition": 112
+      },
+      {
+        "url": "https://belgazprombank.by/",
+        "title": "Результат #14",
+        "snippet": "",
+        "position": 14,
+        "page": 3,
+        "globalPosition": 113
+      },
+      {
+        "url": "https://www.raiffeisen.ru/business/dist/rbo/",
+        "title": "Результат #15",
+        "snippet": "",
+        "position": 15,
+        "page": 3,
+        "globalPosition": 114
+      },
+      {
+        "url": "https://mskgazeta.ru/ekonomika/mozhet-li-malyj-i-srednij-biznes-perezapustit-rossijskuyu-ekonomiku-14913.html",
+        "title": "Результат #16",
+        "snippet": "",
+        "position": 16,
+        "page": 3,
+        "globalPosition": 115
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=4_IfUl_LuaY",
+        "title": "Результат #17",
+        "snippet": "",
+        "position": 17,
+        "page": 3,
+        "globalPosition": 116
+      },
+      {
+        "url": "https://tochka.com/",
+        "title": "Результат #18",
+        "snippet": "",
+        "position": 18,
+        "page": 3,
+        "globalPosition": 117
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=REEFLuI5ZwU",
+        "title": "Результат #19",
+        "snippet": "",
+        "position": 19,
+        "page": 3,
+        "globalPosition": 118
+      },
+      {
+        "url": "https://bizmagazine.ru/kredity-v-malom-biznese-vse-o-chem-vy-khoteli-sprosit",
+        "title": "Результат #20",
+        "snippet": "",
+        "position": 20,
+        "page": 3,
+        "globalPosition": 119
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=ZZmhuimWihQ",
+        "title": "Результат #21",
+        "snippet": "",
+        "position": 21,
+        "page": 3,
+        "globalPosition": 120
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=MGrYDP21-v4",
+        "title": "Результат #22",
+        "snippet": "",
+        "position": 22,
+        "page": 3,
+        "globalPosition": 121
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=3PIwVemfHqo",
+        "title": "Результат #23",
+        "snippet": "",
+        "position": 23,
+        "page": 3,
+        "globalPosition": 122
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=kUq50tBNQFc",
+        "title": "Результат #24",
+        "snippet": "",
+        "position": 24,
+        "page": 3,
+        "globalPosition": 123
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=70WccdGb5T4",
+        "title": "Результат #25",
+        "snippet": "",
+        "position": 25,
+        "page": 3,
+        "globalPosition": 124
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=8bVysIQYQj0",
+        "title": "Результат #26",
+        "snippet": "",
+        "position": 26,
+        "page": 3,
+        "globalPosition": 125
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=_kqZ4Jv9yBI",
+        "title": "Результат #27",
+        "snippet": "",
+        "position": 27,
+        "page": 3,
+        "globalPosition": 126
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=bGp_f-d51Gw",
+        "title": "Результат #28",
+        "snippet": "",
+        "position": 28,
+        "page": 3,
+        "globalPosition": 127
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Rjda6WqpWHw",
+        "title": "Результат #29",
+        "snippet": "",
+        "position": 29,
+        "page": 3,
+        "globalPosition": 128
       }
     ]
   }

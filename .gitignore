@@ -1,0 +1,18 @@
+# Зависимости
+node_modules/
+package-lock.json
+
+# Системные файлы
+.DS_Store
+
+# Файлы окружения с секретами
+.env
+
+# Данные и результаты
+data/
+logs/
+*.log
+serp_output.log
+
+# Промежуточные файлы
+*.csv
