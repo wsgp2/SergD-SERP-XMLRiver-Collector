@@ -1,0 +1,609 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "GOOGLE",
+  "timestamp": "2025-05-21T04:21:56.929Z",
+  "options": {
+    "domain": 10,
+    "country": 2008,
+    "page": 1,
+    "groupby": 100,
+    "lr": "lang_ru"
+  },
+  "resultsCount": 99,
+  "results": [
+    {
+      "url": "https://alfabank.ru/sme/profits/businesscredit/",
+      "title": "Результат #1",
+      "snippet": "",
+      "position": 1
+    },
+    {
+      "url": "https://www.sravni.ru/biznes-kredity/",
+      "title": "Результат #2",
+      "snippet": "",
+      "position": 2
+    },
+    {
+      "url": "https://www.psbank.ru/business/loans",
+      "title": "Результат #3",
+      "snippet": "",
+      "position": 3
+    },
+    {
+      "url": "https://www.vtb.ru/malyj-biznes/kredity-i-garantii/",
+      "title": "Результат #4",
+      "snippet": "",
+      "position": 4
+    },
+    {
+      "url": "https://www.sberbank.com/ru/s_m_business/credits",
+      "title": "Результат #5",
+      "snippet": "",
+      "position": 5
+    },
+    {
+      "url": "https://www.tbank.ru/business/credit/",
+      "title": "Результат #6",
+      "snippet": "",
+      "position": 6
+    },
+    {
+      "url": "https://sovcombank.ru/apply/business/credit/bez-zaloga/",
+      "title": "Результат #7",
+      "snippet": "",
+      "position": 7
+    },
+    {
+      "url": "https://domrfbank.ru/sme/credits/",
+      "title": "Результат #8",
+      "snippet": "",
+      "position": 8
+    },
+    {
+      "url": "https://mspbank.ru/express/",
+      "title": "Результат #9",
+      "snippet": "",
+      "position": 9
+    },
+    {
+      "url": "https://alfabank.ru/sme/profits/",
+      "title": "Результат #10",
+      "snippet": "",
+      "position": 10
+    },
+    {
+      "url": "https://tochka.com/credits/",
+      "title": "Результат #11",
+      "snippet": "",
+      "position": 11
+    },
+    {
+      "url": "https://www.mtsbank.ru/malomu-biznesu/krediti/",
+      "title": "Результат #12",
+      "snippet": "",
+      "position": 12
+    },
+    {
+      "url": "https://fincult.info/article/kak-poluchit-lgotnyy-kredit-dlya-malogo-biznesa/",
+      "title": "Результат #13",
+      "snippet": "",
+      "position": 13
+    },
+    {
+      "url": "https://invest.ozon.ru/",
+      "title": "Результат #14",
+      "snippet": "",
+      "position": 14
+    },
+    {
+      "url": "https://www.gazprombank.ru/business/gpn-credit/",
+      "title": "Результат #15",
+      "snippet": "",
+      "position": 15
+    },
+    {
+      "url": "https://uralsib.ru/business/finansirovanie/kredity",
+      "title": "Результат #16",
+      "snippet": "",
+      "position": 16
+    },
+    {
+      "url": "https://www.centrinvest.ru/business/business-crediting",
+      "title": "Результат #17",
+      "snippet": "",
+      "position": 17
+    },
+    {
+      "url": "https://www.akbars.ru/small-business/credits/",
+      "title": "Результат #18",
+      "snippet": "",
+      "position": 18
+    },
+    {
+      "url": "https://sovcombank.ru/business/krediti",
+      "title": "Результат #19",
+      "snippet": "",
+      "position": 19
+    },
+    {
+      "url": "https://www.zenit.ru/business/credits/",
+      "title": "Результат #20",
+      "snippet": "",
+      "position": 20
+    },
+    {
+      "url": "https://www.ubrr.ru/dlya-biznesa/finansirovanie-biznesa",
+      "title": "Результат #21",
+      "snippet": "",
+      "position": 21
+    },
+    {
+      "url": "https://www.roseltorg.ru/knowledge_db/services/chto-takoe-kredit-dlya-malogo-biznesa-i-zachem-nuzhen",
+      "title": "Результат #22",
+      "snippet": "",
+      "position": 22
+    },
+    {
+      "url": "https://развивай.рф/business_credits",
+      "title": "Результат #23",
+      "snippet": "",
+      "position": 23
+    },
+    {
+      "url": "https://www.swedbank.lv/business/finance/loans/loan?language=RUS",
+      "title": "Результат #24",
+      "snippet": "",
+      "position": 24
+    },
+    {
+      "url": "http://www.sberbank.ru/ru/s_m_business/pro_business/kak-poluchit-biznes-kredit-na-otkrytie-biznesa",
+      "title": "Результат #25",
+      "snippet": "",
+      "position": 25
+    },
+    {
+      "url": "https://www.rncb.ru/yuridicheskim-litsam/kreditovanie-biznesa/",
+      "title": "Результат #26",
+      "snippet": "",
+      "position": 26
+    },
+    {
+      "url": "https://www.psbank.ru/Business/Loans/CreditBusiness",
+      "title": "Результат #27",
+      "snippet": "",
+      "position": 27
+    },
+    {
+      "url": "https://kk.bank/business/credits/kredity-dlya-biznesa/",
+      "title": "Результат #28",
+      "snippet": "",
+      "position": 28
+    },
+    {
+      "url": "https://www.otpbank.ru/business/sme/",
+      "title": "Результат #29",
+      "snippet": "",
+      "position": 29
+    },
+    {
+      "url": "https://www.genbank.ru/yur-litsam/credit_for_business/",
+      "title": "Результат #30",
+      "snippet": "",
+      "position": 30
+    },
+    {
+      "url": "https://мойбизнес.рф/support/lgotnoe-kreditovanie-40/",
+      "title": "Результат #31",
+      "snippet": "",
+      "position": 31
+    },
+    {
+      "url": "https://www.bcc.kz/business/loans/growing-business/",
+      "title": "Результат #32",
+      "snippet": "",
+      "position": 32
+    },
+    {
+      "url": "https://business.bankffin.kz/",
+      "title": "Результат #33",
+      "snippet": "",
+      "position": 33
+    },
+    {
+      "url": "https://www.gazprombank.ru/business/all-credits/",
+      "title": "Результат #34",
+      "snippet": "",
+      "position": 34
+    },
+    {
+      "url": "https://www.chelindbank.ru/smallbiz/credits/biz/",
+      "title": "Результат #35",
+      "snippet": "",
+      "position": 35
+    },
+    {
+      "url": "https://belgazprombank.by/malomu_i_srednemu_biznesu/credits_msb/",
+      "title": "Результат #36",
+      "snippet": "",
+      "position": 36
+    },
+    {
+      "url": "https://fincult.info/article/kak-malomu-biznesu-poluchit-kredit-pod-gosgarantiyu/",
+      "title": "Результат #37",
+      "snippet": "",
+      "position": 37
+    },
+    {
+      "url": "https://www.paritetbank.by/business/credit/",
+      "title": "Результат #38",
+      "snippet": "",
+      "position": 38
+    },
+    {
+      "url": "https://www.albank.ru/ru/corp/credits/",
+      "title": "Результат #39",
+      "snippet": "",
+      "position": 39
+    },
+    {
+      "url": "https://bnb.by/k-delu/finansirovanie/kreditovanie-biznesa/",
+      "title": "Результат #40",
+      "snippet": "",
+      "position": 40
+    },
+    {
+      "url": "https://www.tbank.ru/business/credit/ip/",
+      "title": "Результат #41",
+      "snippet": "",
+      "position": 41
+    },
+    {
+      "url": "https://www.roseltorg.ru/knowledge_db/services/chto-takoe-kredit-na-razvitie-biznesa-i-kak-ego-poluchit-v-roseltorgfinansovyy-servis",
+      "title": "Результат #42",
+      "snippet": "",
+      "position": 42
+    },
+    {
+      "url": "https://www.mtbank.by/business/credits/",
+      "title": "Результат #43",
+      "snippet": "",
+      "position": 43
+    },
+    {
+      "url": "https://www.priorbank.by/business/financing-business/business-express",
+      "title": "Результат #44",
+      "snippet": "",
+      "position": 44
+    },
+    {
+      "url": "https://myfin.by/kredity/dlya-malogo-biznesa",
+      "title": "Результат #45",
+      "snippet": "",
+      "position": 45
+    },
+    {
+      "url": "https://belarusbank.by/ru/33363/33369/31567",
+      "title": "Результат #46",
+      "snippet": "",
+      "position": 46
+    },
+    {
+      "url": "https://www.ubrr.ru/dlya-biznesa/podderzhka-biznesa/spravochnik-predprinimatelya/kredity-na-otkrytie-biznesa-plyusy-i",
+      "title": "Результат #47",
+      "snippet": "",
+      "position": 47
+    },
+    {
+      "url": "https://www.bcc.kz/business/loans/business-credit/",
+      "title": "Результат #48",
+      "snippet": "",
+      "position": 48
+    },
+    {
+      "url": "https://www.vtb.by/malomu-biznesu/kredity",
+      "title": "Результат #49",
+      "snippet": "",
+      "position": 49
+    },
+    {
+      "url": "https://www.rosbank.ru/malomu-biznesu/kredity-dlya-biznesa-dlya-ooo/",
+      "title": "Результат #50",
+      "snippet": "",
+      "position": 50
+    },
+    {
+      "url": "https://damu.kz/ru/programmi",
+      "title": "Результат #51",
+      "snippet": "",
+      "position": 51
+    },
+    {
+      "url": "https://www.raiffeisen.ru/wiki/kak-poluchit-kredit-dlya-ip-i-ooo/",
+      "title": "Результат #52",
+      "snippet": "",
+      "position": 52
+    },
+    {
+      "url": "https://www.vbr.ru/banki/kredity-dlya-biznesa/",
+      "title": "Результат #53",
+      "snippet": "",
+      "position": 53
+    },
+    {
+      "url": "https://sberfactoring.ru/blog/stoit-li-brat-kredit-na-otkrytie-biznesa/",
+      "title": "Результат #54",
+      "snippet": "",
+      "position": 54
+    },
+    {
+      "url": "https://www.banki.ru/business/kredit_dlya_biznesa/catalogue/na-razvitie/",
+      "title": "Результат #55",
+      "snippet": "",
+      "position": 55
+    },
+    {
+      "url": "https://industra.finance/ru/kredity/krjedit-dlja-razvitija-biznjesa",
+      "title": "Результат #56",
+      "snippet": "",
+      "position": 56
+    },
+    {
+      "url": "https://tatsotsbank.ru/blog/kredit-na-razvitie-biznesa-kakie-tseli-mozhno-kreditovat/",
+      "title": "Результат #57",
+      "snippet": "",
+      "position": 57
+    },
+    {
+      "url": "https://www.bspb.ru/business/credits-sm",
+      "title": "Результат #58",
+      "snippet": "",
+      "position": 58
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82_%D0%B4%D0%BB%D1%8F_%D1%8E%D1%80%D0%B8%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%BB%D0%B8%D1%86",
+      "title": "Результат #59",
+      "snippet": "",
+      "position": 59
+    },
+    {
+      "url": "https://sqb.uz/business/small-business-credits/",
+      "title": "Результат #60",
+      "snippet": "",
+      "position": 60
+    },
+    {
+      "url": "https://www.optimabank.kg/index.php?option=com_content&amp;view=article&amp;id=5392&amp;Itemid=173&amp;lang=ru",
+      "title": "Результат #61",
+      "snippet": "",
+      "position": 61
+    },
+    {
+      "url": "https://finuslugi.ru/navigator/kredity/stat_put_predprinimatelya_sem_bankov_dayushchih_kredity_malomu_i_srednemu_biznesu",
+      "title": "Результат #62",
+      "snippet": "",
+      "position": 62
+    },
+    {
+      "url": "https://halykbank.kz/business/credit/halyk-predprinimatel",
+      "title": "Результат #63",
+      "snippet": "",
+      "position": 63
+    },
+    {
+      "url": "https://www.belinvestbank.by/business/finances",
+      "title": "Результат #64",
+      "snippet": "",
+      "position": 64
+    },
+    {
+      "url": "https://eskhata.com/corporate/loans/",
+      "title": "Результат #65",
+      "snippet": "",
+      "position": 65
+    },
+    {
+      "url": "https://bankrbk.kz/ru/msb/loans",
+      "title": "Результат #66",
+      "snippet": "",
+      "position": 66
+    },
+    {
+      "url": "https://www.rrb.by/korporativnim-klientam/credit-for-business",
+      "title": "Результат #67",
+      "snippet": "",
+      "position": 67
+    },
+    {
+      "url": "https://www.ab.kg/bankovskie-uslugi-uridicheskim-licam/credits-uridicheskim/business",
+      "title": "Результат #68",
+      "snippet": "",
+      "position": 68
+    },
+    {
+      "url": "https://национальныепроекты.рф/opportunities/poluchit-lgotnyy-kredit/",
+      "title": "Результат #69",
+      "snippet": "",
+      "position": 69
+    },
+    {
+      "url": "https://www.banki.ru/news/daytheme/?id=11002764",
+      "title": "Результат #70",
+      "snippet": "",
+      "position": 70
+    },
+    {
+      "url": "https://mbank.kg/credits/biznes-kredit",
+      "title": "Результат #71",
+      "snippet": "",
+      "position": 71
+    },
+    {
+      "url": "https://www.lockobank.ru/articles/kredity/kredit-na-otkrytie-biznesa-s-nulya/",
+      "title": "Результат #72",
+      "snippet": "",
+      "position": 72
+    },
+    {
+      "url": "https://www.sravni.ru/biznes-kredity/dlya-ooo/",
+      "title": "Результат #73",
+      "snippet": "",
+      "position": 73
+    },
+    {
+      "url": "https://www.atb.su/business/",
+      "title": "Результат #74",
+      "snippet": "",
+      "position": 74
+    },
+    {
+      "url": "https://www.swedbank.ee/business/finance/capital/loan?language=RUS",
+      "title": "Результат #75",
+      "snippet": "",
+      "position": 75
+    },
+    {
+      "url": "https://finance.ozon.ru/business",
+      "title": "Результат #76",
+      "snippet": "",
+      "position": 76
+    },
+    {
+      "url": "https://afcredit.ru/biznes-kredit/",
+      "title": "Результат #77",
+      "snippet": "",
+      "position": 77
+    },
+    {
+      "url": "https://развивай.рф/business_credits/razvitie_biznesa",
+      "title": "Результат #78",
+      "snippet": "",
+      "position": 78
+    },
+    {
+      "url": "https://jusan.kz/business",
+      "title": "Результат #79",
+      "snippet": "",
+      "position": 79
+    },
+    {
+      "url": "https://www.citadele.lv/ru/business/credit/",
+      "title": "Результат #80",
+      "snippet": "",
+      "position": 80
+    },
+    {
+      "url": "https://modulbank.ru/",
+      "title": "Результат #81",
+      "snippet": "",
+      "position": 81
+    },
+    {
+      "url": "https://www.akbars.ru/small-business/",
+      "title": "Результат #82",
+      "snippet": "",
+      "position": 82
+    },
+    {
+      "url": "https://www.raiffeisen.ru/business/",
+      "title": "Результат #83",
+      "snippet": "",
+      "position": 83
+    },
+    {
+      "url": "https://kontur.ru/articles/4710",
+      "title": "Результат #84",
+      "snippet": "",
+      "position": 84
+    },
+    {
+      "url": "https://privatbank.ua/business/kredit",
+      "title": "Результат #85",
+      "snippet": "",
+      "position": 85
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZZmhuimWihQ",
+      "title": "Результат #86",
+      "snippet": "",
+      "position": 86
+    },
+    {
+      "url": "https://uralsib.ru/business",
+      "title": "Результат #87",
+      "snippet": "",
+      "position": 87
+    },
+    {
+      "url": "https://www.sber-bank.by/page/business-main",
+      "title": "Результат #88",
+      "snippet": "",
+      "position": 88
+    },
+    {
+      "url": "https://объясняем.рф/articles/news/biznes-prodolzhit-poluchat-lgotnye-kredity-na-investitsii-/",
+      "title": "Результат #89",
+      "snippet": "",
+      "position": 89
+    },
+    {
+      "url": "http://rsb.ru/credits/",
+      "title": "Результат #90",
+      "snippet": "",
+      "position": 90
+    },
+    {
+      "url": "https://bankinform.ru/news/137688",
+      "title": "Результат #91",
+      "snippet": "",
+      "position": 91
+    },
+    {
+      "url": "https://www.vbr.ru/biznes/help/biznes-kredity/",
+      "title": "Результат #92",
+      "snippet": "",
+      "position": 92
+    },
+    {
+      "url": "https://www.tkbbank.ru/business/services/ib-business/",
+      "title": "Результат #93",
+      "snippet": "",
+      "position": 93
+    },
+    {
+      "url": "https://belarusbank.by/ru/fizicheskim_licam/kredit/consumer",
+      "title": "Результат #94",
+      "snippet": "",
+      "position": 94
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8bVysIQYQj0",
+      "title": "Результат #95",
+      "snippet": "",
+      "position": 95
+    },
+    {
+      "url": "https://www.klerk.ru/user/2528358/648226/",
+      "title": "Результат #96",
+      "snippet": "",
+      "position": 96
+    },
+    {
+      "url": "https://bbr.ru/",
+      "title": "Результат #97",
+      "snippet": "",
+      "position": 97
+    },
+    {
+      "url": "https://absolutbank.ru/",
+      "title": "Результат #98",
+      "snippet": "",
+      "position": 98
+    },
+    {
+      "url": "https://fintender.ru/",
+      "title": "Результат #99",
+      "snippet": "",
+      "position": 99
+    }
+  ]
+}

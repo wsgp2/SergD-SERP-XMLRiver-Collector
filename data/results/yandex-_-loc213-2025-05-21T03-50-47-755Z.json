@@ -1,0 +1,85 @@
+{
+  "query": "кредиты малому бизнесу",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:50:47.755Z",
+  "options": {
+    "groupby": 10,
+    "page": 0,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "Льготные кредиты по Программе 1764 для малого...",
+      "url": "https://mspbank.ru/credit/!preferential/",
+      "snippet": "Программа льготного финансирования субъектов малого и среднего предпринимательства (МСП).",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Как взять кредит на развитие малого бизнеса: пошагово...",
+      "url": "https://www.klerk.ru/user/2528358/648226/",
+      "snippet": "Малый бизнес — дело непростое: идеи есть, желания много, а вот стартового капитала или оборотных средств — не хватает.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредит на открытие бизнеса без залога – оформите...",
+      "url": "https://Sovcombank.ru/apply/credit/bez-zaloga-na-otkrytie-biznesa/",
+      "snippet": "Какие документы нужны для получения кредита малому бизнесу с нуля без залога.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Как получить кредит на развитие и открытие малого...",
+      "url": "https://www.VTB.ru/articles/kredity-dlya-biznesa/kak-poluchit-kredit-dlya-biznesa/",
+      "snippet": "Разберемся, сложно ли сейчас субъектам малого и среднего бизнеса получить кредит в банке, какие понадобятся документы и сколько времени это...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Примсоцбанк расширяет возможности для малого...",
+      "url": "https://pskb.com/press-center/news/primsotsbank-rasshiryaet-vozmozhnosti-dlya-malogo-i-srednego-biznesa-kreditnaya-liniya-bez-zaloga/",
+      "snippet": "Направления деятельности банка: кредиты наличными, вклады, ипотечные кредиты, кредиты малому бизнесу.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование",
+      "url": "https://distribution.biocard.com/services/smallbusiness/credit.php",
+      "snippet": "Кредитование малого и среднего бизнеса является одним из стратегических направлений Банка.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "",
+      "url": "https://www.LockoBank.ru/personal/kredit/srazu/",
+      "snippet": "Оформите кредит сразу для бизнеса в Локо-Банке – выгодные условия, минимальный пакет документов и быстрое решение...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Инвестиционный кредит для МСП | Кредиты бизнесу",
+      "url": "https://www.akbars.ru/small-business/credits/investicionnyj-dlya-msp/",
+      "snippet": "Главная Малому бизнесу и ИП. Кредиты для бизнеса.... От 50 млн ₽ до 500 млн ₽ по кредитным договорам, заключенным с малыми предприятиями.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Льготы и господдержка для ИП и малого бизнеса в 2025...",
+      "url": "https://e-kontur.ru/enquiry/2395/lgoty-i-gospodderzhka-dlya-ip-i-malogo-biznesa",
+      "snippet": "Для малого бизнеса в 2025 году действует множество мер поддержки: пониженные налоговые ставки, нулевая ставка НДС, гранты до 10 млн ₽ и кредиты...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Просто|Банк — кредит для бизнеса в Армавире, на...",
+      "url": "https://armavir.vbr.ru/banki/prosto-bank/kredity-dlya-biznesa/",
+      "snippet": "...ставке в среднем от 10 до 30% в зависимости от программы кредитованиясреднему и малому бизнесу доступны разные варианты займов, в том числе под...",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

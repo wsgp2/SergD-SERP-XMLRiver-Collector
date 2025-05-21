@@ -1,0 +1,75 @@
+{
+  "query": "бизнес кредит онлайн",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T04:32:10.196Z",
+  "options": {
+    "page": 6,
+    "filter": 1,
+    "within": 2,
+    "groupby": 10,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "url": "https://бк96.рф/tpost/9or75zmdx1-kak-vibrat-optimalnii-kredit-dlya-malogo",
+      "title": "Результат #1",
+      "snippet": "",
+      "position": 1
+    },
+    {
+      "url": "https://main.investroom.kz/",
+      "title": "Результат #2",
+      "snippet": "",
+      "position": 2
+    },
+    {
+      "url": "https://vc.ru/id137623/688922-kak-otkryt-ip-onlain-cherez-bank-ne-platit-gosposhlinu-i-zarabotat-na-etom-5000-rublei-poshagavshaya-instrukciya",
+      "title": "Результат #3",
+      "snippet": "",
+      "position": 3
+    },
+    {
+      "url": "https://hamkorbank.uz/business/credits-for-business/business-start/?gad_source=1&amp;gad_campaignid=22484007794&amp;gbraid=0AAAAA_CRfEVH0BJVy-jnh2ZCDpbAQWmNf",
+      "title": "Результат #4",
+      "snippet": "",
+      "position": 4
+    },
+    {
+      "url": "https://www.gnwt.baikalcredobank.ru/irk/business/item/193/",
+      "title": "Результат #5",
+      "snippet": "",
+      "position": 5
+    },
+    {
+      "url": "https://mosgorcredit.ru/blog/kredit_dlja_biznesa_bez_zaloga_124_bezzalogovoe_kreditovanie_kompanij_i_ip_124_bezzalogovye_kredity_biznesu_124_2024/2024-02-02-348",
+      "title": "Результат #6",
+      "snippet": "",
+      "position": 6
+    },
+    {
+      "url": "https://gidropribor.ru/press/newspages/v-novyh-regionah-rossii-nachalos-onlayn-kreditovanie-biznesa.html",
+      "title": "Результат #7",
+      "snippet": "",
+      "position": 7
+    },
+    {
+      "url": "https://worldinform.ru/articles/id-primsocbank-rasshirjaet-vozmozhnosti-dlja-malogo-i-srednego-biznesa-kreditnaja-linija-bez-zaloga.html",
+      "title": "Результат #8",
+      "snippet": "",
+      "position": 8
+    },
+    {
+      "url": "https://binagroup.ru/blog/online-kreditovanie-do-5-mln-rub/",
+      "title": "Результат #9",
+      "snippet": "",
+      "position": 9
+    },
+    {
+      "url": "https://rassrochkicard.ru/kredit-dlya-malogo-biznesa-v-izhevske/",
+      "title": "Результат #10",
+      "snippet": "",
+      "position": 10
+    }
+  ]
+}

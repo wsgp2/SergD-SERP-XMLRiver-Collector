@@ -1,0 +1,85 @@
+{
+  "query": "кредиты малому бизнесу",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:50:59.759Z",
+  "options": {
+    "groupby": 10,
+    "page": 3,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "Альфа-Банк начал принимать заявки на льготные...",
+      "url": "https://www.raise-ranepa.ru/190525/novosti-alfa-bank-dlya-biznesa-kredit/",
+      "snippet": "Кредиты в Альфа-Банке для малого бизнеса можно получить на льготных условиях.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Альфа-Банк признан лучшим частным банком по объему...",
+      "url": "https://AlfaBank.ru/news/t/release/alfa-bank-priznan-luchshim-chastnim-bankom-po-obemu-vidannikh-kreditov-i-velichine-portfelya-msb-2024/",
+      "snippet": "В сегменте малого и среднего бизнеса в 2024 году Альфа-Банк выдал кредитов на 1 772 320 млн рублей.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Представители малого и среднего бизнеса Тверской...",
+      "url": "https://minenergo.tverreg.ru/novosti/novosti/?print=y&ELEMENT_ID=86446",
+      "snippet": "Субъекты малого и среднего бизнеса могут самостоятельно обратиться за получением кредита на льготных условиях в любой из них.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Бизнесу на заметку: кто получит господдержку...",
+      "url": "https://ura.news/articles/1036291287",
+      "snippet": "Один из главных вызовов для малого и среднего бизнеса — дорогие кредиты, отметил собеседник URA.RU.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Как можно получить кредит на малый бизнес...",
+      "url": "https://credit24.ru/stati/kak-mozhno-poluchit-kredit-na-malyy-biznes/",
+      "snippet": "Получение кредита на малый бизнес требует соответствия определенным критериям, установленным финансовыми учреждениями.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Банк Уралсиб вошел в Топ-10 по объемам кредитования...",
+      "url": "https://www.kommersant.ru/doc/7677401?erid=F7NfYUJCUneRHyrUVf6A",
+      "snippet": "Всего за 2024 год субъектам малого и среднего бизнеса банк выдал кредитов на сумму 73,1 млрд рублей.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Новые формы кредитного обеспечения для малого...",
+      "url": "https://ipotekaicredit.ru/blog/2025/04/24/novye-formy-kreditnogo-obespecheniya-dlya-malogo-biznesa/",
+      "snippet": "Современное кредитование малого бизнеса в России претерпевает значительные изменения, и... Как получить кредит на развитие малого бизнеса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "В Москве продлили программы льготного кредитования...",
+      "url": "https://www.mos.ru/news/item/153259073/",
+      "snippet": "Получить льготные кредиты могут субъекты малого и среднего предпринимательства (МСП), использующие в качестве обеспечения...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Госпрограммы поддержки малого бизнеса — 2025",
+      "url": "https://krasnozvezdinskoe-r64.gosweb.gosuslugi.ru/deyatelnost/napravleniya-deyatelnosti/biznes-predprinimatelstvo/novosti/novosti-269_2937.html",
+      "snippet": "Финансовый инструмент для малого бизнеса: кредиты через «зонтичный» механизм.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Банк Уралсиб вошел в Топ-10 по объемам кредитования...",
+      "url": "https://www.ural.kp.ru/online/news/6345340/",
+      "snippet": "Всего за 2024 год субъектам малого и среднего бизнеса банк выдал кредитов на сумму 73,1 млрд рублей.",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

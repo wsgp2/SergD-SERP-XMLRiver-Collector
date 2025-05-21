@@ -1,0 +1,85 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:53:09.785Z",
+  "options": {
+    "groupby": 10,
+    "page": 12,
+    "filter": 1,
+    "within": 2,
+    "loc": 2
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "Кредит для владельца бизнеса",
+      "url": "https://kasheloff.ru/photos/kredit-dlya-vladeltsa-biznesa/35",
+      "snippet": "Кредит для владельца бизнеса. Кредитование физических и юридических лиц. Кредит для юр лиц. Кредит физическим лицам.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредиты от Альфа-Банка для владельцев бизнеса...",
+      "url": "https://www.permanentspace-kosmetologiya.ru/170525/novosti-alfa-bank-dlya-biznesa-kredit/",
+      "snippet": "Кредит на бизнес в Альфа банке: документы и условия.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "ВТБ выдал первые кредиты МСП по новой льготной...",
+      "url": "https://rspp.ru/events/news/vtb-vydal-pervye-kredity-msp-po-novoy-lgotnoy-programme-6811f1a75aed5/",
+      "snippet": "ВТБ предоставил льготные инвестиционные кредиты по новой программе Минэкономразвития России среднему и малому бизнесу из Самарской...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Новая объединенная программа льготного кредитования...",
+      "url": "https://www.mkr-sgmkgroup.ru/130525/novosti-kredit-dlya-samozanyatyh-grazhdan-na-razvitie-biznesa/",
+      "snippet": "Самозанятый может получить микрозайм, потребительский кредит, оформить ипотеку или льготный кредит на развитие бизнеса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Названы три минуса самозапрета на кредиты - Газета.Ru",
+      "url": "https://www.gazeta.ru/business/news/2025/04/28/25639514.shtml",
+      "snippet": "Экономист Гукасова: самозапрет на кредиты не дает брать товары в рассрочку.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование",
+      "url": "https://infograd-market.ru/services/smallbusiness/credit.php",
+      "snippet": "Кредитование малого и среднего бизнеса является одним из стратегических направлений Банка.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Тенденции на рынке МФО предпринимательского...",
+      "url": "https://cbr.ru/analytics/microfinance/2024/",
+      "snippet": "За год число заемщиков МФО в сегменте займов для бизнеса выросло на четверть.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Онлайн-кредитование для бизнес... — BUSINESS FM",
+      "url": "https://podcasts.apple.com/ru/podcast/онлайн-кредитование-для-бизнеса-от-jusan/id1497535992?i=1000708700537",
+      "snippet": "Онлайн-кредитование для бизнеса от Jusan.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредит для владельца бизнеса",
+      "url": "https://hamachi-soft.ru/kredit/dlya/vladeltsa/biznesa",
+      "snippet": "Банковский кредит для бизнеса. Кредитование малого бизнеса с нуля.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Альфа-банк в 2023 году получил 118 млрд рублей чистой...",
+      "url": "https://www.prs-wedding.ru/120525/novosti-alfa-bank-dlya-biznesa-kredit/",
+      "snippet": "Оформить кредит на развитие бизнеса для юридических лиц и ИП в «Альфа-Банке» теперь можно в режиме онлайн...",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

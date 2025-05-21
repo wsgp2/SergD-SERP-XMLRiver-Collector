@@ -1,0 +1,85 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:52:45.154Z",
+  "options": {
+    "groupby": 10,
+    "page": 2,
+    "filter": 1,
+    "within": 2,
+    "loc": 2
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "Предприниматели получили первые инвестиционные...",
+      "url": "https://www.economy.gov.ru/material/news/predprinimateli_poluchili_pervye_investicionnye_kredity_po_lgotnoy_programme_pravitelstva_rossii.html",
+      "snippet": "Процесс получения кредита максимально прост и удобен для клиента. Банк сам проверяет подходит, ли бизнес под условия, и предлагает...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование",
+      "url": "https://www.governmentussr.ru/services/smallbusiness/credit.php",
+      "snippet": "Кредитование малого и среднего бизнеса является одним из стратегических направлений Банка.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Программы льготного кредитования для бизнеса",
+      "url": "https://abritpetak.serv00.net/https-finansist-kras.ru/consultant/competence/programmy-lgotnogo-kreditovaniya-dlya-biznesa/",
+      "snippet": "Размер кредита: для малого бизнеса – до 300 млн рублей, для среднего бизнеса – до 1 млрд рублей.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Мишустин поручил продлить льготное кредитование...",
+      "url": "https://lug-info.ru/news/mishustin-poruchil-prodlit-lgotnoe-kreditovanie-biznesa-v-istoricheskih-regionah/",
+      "snippet": "Он обратил внимание премьера на высокую ставку по кредитам для бизнеса Республики.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Программа &lt;br&gt;«Все гарантии под 1%»",
+      "url": "https://www.sdm.ru/business/credits/guarantees-1/",
+      "snippet": "Кредиты.... Мобильное приложение СДМ-Банк для бизнеса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредиты для малого и среднего бизнеса в Иркутске",
+      "url": "https://registroaba.baikalcredobank.ru/irk/business/item/193/",
+      "snippet": "Байкалкредобанк предоставляет кредиты на развитие бизнеса на привлекательных условиях.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Как получить надежный бизнес-кредит: важные шаги для...",
+      "url": "https://tr-page.yandex.ru/translate?lang=en-ru&url=https://www.investopedia.com/guide-to-establishing-business-credit-11721423",
+      "snippet": "Чтобы оформить бизнес-кредит, вы должны зарегистрироваться для получения номера EIN и DUNS.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредит для бизнеса от Морского банка - взять кредит...",
+      "url": "https://ru.myfin.by/bank/maritime/kredity-dlya-biznesa/kredit-dla-biznesa-19",
+      "snippet": "Здесь вы можете ознакомиться со всеми условиями и оформить бизнес кредит от Морского банка со следующими параметрами",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредиты для бизнеса",
+      "url": "https://mfcrd.ru/service/d2ab953b-e0ba-4c4e-9085-cf4f8a9fd6e8/",
+      "snippet": "Согласие на обработку ПД (для АО Деловая среда) обязательный Оригинал. Результаты услуги. Кредиты для бизнеса Положительный.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Льготные кредиты 2025 - Московский инновационный...",
+      "url": "https://i.moscow/measure-supports-card/e024eb4f7a244bee9da01e4e4e16ff0f",
+      "snippet": "Современные пространства для бизнеса.... Максимальный размер субсидируемого кредита составит 30 млн рублей.",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

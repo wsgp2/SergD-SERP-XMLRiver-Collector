@@ -1,0 +1,85 @@
+{
+  "query": "кредиты малому бизнесу",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:54:28.078Z",
+  "options": {
+    "groupby": 10,
+    "page": 7,
+    "filter": 1,
+    "within": 2,
+    "loc": 2
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "Альфа-Банк стал лидером по кредитованию малого...",
+      "url": "https://finfax.ru/news/alifa-bank-stal-liderom-po-kreditovaniyu-malogo-biznesa-v-2024-2025-04-25",
+      "snippet": "В секторе малого и среднего бизнеса в 2024 году Альфа-Банк выдал кредитов на сумму 1 772 320 млн рублей.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "ВТБ выдал первые кредиты МСП по новой льготной...",
+      "url": "https://tass.ru/ekonomika/23823011",
+      "snippet": "ВТБ предоставил льготные инвестиционные кредиты по новой программе Минэкономразвития России среднему и малому бизнесу из...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Альфа-Банк признан лучшим частным банком по объему...",
+      "url": "https://AlfaBank.ru/news/t/release/alfa-bank-priznan-luchshim-chastnim-bankom-po-obemu-vidannikh-kreditov-i-velichine-portfelya-msb-2024/",
+      "snippet": "В сегменте малого и среднего бизнеса в 2024 году Альфа-Банк выдал кредитов на 1 772 320 млн рублей.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредиты малому бизнесу - читайте от Финэксперт...",
+      "url": "https://sankt-peterburg.finexpert24.ru/poleznye-materialy/articles/vidy-kreditov-2/kredity-malomu-biznesu/",
+      "snippet": "В последнее время спрос на получение кредита малому бизнесу значительно вырос.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "О банке «Байкалкредобанк»",
+      "url": "https://mail-svn.baikalcredobank.ru/irk/business/about/",
+      "snippet": "кредитование малого и среднего бизнеса; операции межбанковского кредитования; консультации, разработка и оценка бизнес-проектов",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование",
+      "url": "https://мориз.рф/services/smallbusiness/credit.php",
+      "snippet": "Кредитование малого и среднего бизнеса является одним из стратегических направлений Банка.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Государственная поддержка малого и среднего бизнеса",
+      "url": "https://адм-тамань.рф/activity/msp/gosudarstvennaya-podderzhka-malogo-i-srednego-biznesa",
+      "snippet": "Развитие малого и среднего предпринимательства является приоритетным направлением политики Российской Федерации.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Вклад прибыльней бизнеса. Малые и средние... | Банки.ру",
+      "url": "https://www.banki.ru/news/lenta/?id=11013675",
+      "snippet": "Предприятия малого и среднего бизнеса на 60% увеличили объем депозитов в Банке...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование",
+      "url": "https://автошкола-светофор.рф/services/smallbusiness/credit.php",
+      "snippet": "Кредитование малого и среднего бизнеса является одним из стратегических направлений Банка.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Малый бизнес: определение, льготы и поддержка",
+      "url": "https://www.4dk.ru/content/art/36178-cplus-kak-malomu-biznesu-poluchit-gospodderzhku-subsidii-grantyi-i-lgotnyie-kredityi-20250514",
+      "snippet": "Как малому бизнесу получить господдержку: субсидии, гранты и льготные кредиты.",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

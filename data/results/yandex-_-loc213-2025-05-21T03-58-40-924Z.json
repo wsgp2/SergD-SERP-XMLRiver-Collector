@@ -1,0 +1,85 @@
+{
+  "query": "кредиты малому бизнесу",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:58:40.924Z",
+  "options": {
+    "groupby": 10,
+    "page": 11,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "Эксперты прогнозируют замедление кредитования...",
+      "url": "https://marketpower.pro/publications/eksperty-prognoziruiut-zamedlenie-kreditovaniia-malogo-i-srednego-biznesa-v-2025-godu",
+      "snippet": "Эксперты прогнозируют замедление кредитования малого и среднего бизнеса в 2025 году.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "В России начали выдавать первые льготные...",
+      "url": "https://iz.ru/1879389/2025-04-30/v-rossii-nacali-vydavat-pervye-lgotnye-investkredity-po-obnovlennoi-programme",
+      "snippet": "В России в рамках программы льготного кредитования малого и среднего предпринимательства (МСП) заключены первые кредитные договоры...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Малый бизнес может получить займы от 5 млн рублей на...",
+      "url": "https://мсп.рф/services/news/detail/malyy-biznes-mozhet-poluchit-zaymy-ot-5-mln-rubley-na-msp-rf-po-stavkam-5-7-godovykh/",
+      "snippet": "Малый бизнес привлек более 5 млрд рублей по низкой ставке через сервис МСП.РФ.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Как получить банковский кредит для малого бизнеса",
+      "url": "https://tinkoff.credits.ru/publications/363454/kak-poluchit-bankovskij-kredit-dlya-malogo-biznesa/",
+      "snippet": "Содержание1.Почему же банковские кредиты малому бизнесу обрастают подобными слухами?3.Банки не дают банковские кредиты малому бизнесу, если его еще не существует",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "В Москве продлили программы льготного кредитования...",
+      "url": "https://investmoscow.ru/press-center/news-article/?article=325611",
+      "snippet": "Финансовую поддержку от города могут получить субъекты малого и среднего бизнеса, реализующие продукцию на условиях отсрочки платежа.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Резюме Финансовый директор, Москва, по договоренности...",
+      "url": "https://vologda.superjob.ru/resume/finansovyj-direktor-55409017.html",
+      "snippet": "Заместитель управляющего по малому и среднему бизнесу операционного офиса Алтайский Филиала Сибирский ПАО Банка ФК Открытие.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Субсидия субъектам малого и среднего...",
+      "url": "https://gisp.gov.ru/nmp/measure/12448892",
+      "snippet": "Субсидия субъектам малого и среднего предпринимательства на возмещение затрат на уплату процентов по кредитам, полученным в российских...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Объем просроченных кредитов малого бизнеса растет",
+      "url": "https://www.fd.ru/news/62335-obem-prosrochennyh-kreditov-malogo-biznesa-rastet",
+      "snippet": "Реструктуризация кредитов и долговых обязательств может стать эффективным инструментом для субъектов МСП.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Малое и среднее предпринимательство в России...",
+      "url": "https://elar.urfu.ru/bitstream/10995/142915/1/978-5-91256-730-8_292.pdf",
+      "snippet": "Ключевые слова: Малое и среднее предпринимательство, развитие МСП, МСП в ВВП, индекс RSBI, самочувствие бизнеса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "В начале июня 2022 года самозанятые могут получить...",
+      "url": "https://www.n-ngrad.ru/200525/novosti-kredity-dlya-samozanyatyh/",
+      "snippet": "Самозанятый может получить микрозайм, потребительский кредит, оформить ипотеку или льготный кредит на развитие бизнеса.",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

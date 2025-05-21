@@ -1,0 +1,19 @@
+{
+  "name": "serp-api-xmlriver",
+  "version": "1.0.0",
+  "description": "Сбор данных из поисковой выдачи Яндекса и Google с использованием XMLRiver API",
+  "main": "serp-collector.js",
+  "scripts": {
+    "start": "node serp-collector.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergei Dyshkant (SergD)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.3",
+    "fs-extra": "^10.1.0"
+  }
+}
+
+}

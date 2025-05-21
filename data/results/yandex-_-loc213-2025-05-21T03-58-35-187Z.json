@@ -1,0 +1,85 @@
+{
+  "query": "кредиты малому бизнесу",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:58:35.187Z",
+  "options": {
+    "groupby": 10,
+    "page": 9,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "Малый бизнес может получить займы от 5 млн рублей на...",
+      "url": "https://corpmsp.ru/about/press/news/novosti-korporatsii/malyy-biznes-mozhet-poluchit-zaymy-ot-5-mln-rubley-na-msp-rf-po-stavkam-5-7-godovykh/",
+      "snippet": "Бизнес Татарстана может получить займ по ставке 7% на сумму до 15 млн руб. на срок до 4 лет под залог товарных знаков, патентов, программного...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Определение от 11 апреля 2022 г. по делу... :: СудАкт.ру",
+      "url": "https://sudact.ru/vsrf/doc/xLRGiZyErTgx/",
+      "snippet": "Ответчики: Фонд содействия кредитованию малого бизнеса Москвы (подробнее).",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Уралсиб вошел в Топ-10 рейтинга по объемам...",
+      "url": "https://www.dk.ru/news/237221577?erid=2W5zFGZGPdA",
+      "snippet": "Всего за 2024 г. субъектам малого и среднего бизнеса банк выдал кредитов на сумму 73,1 млрд руб.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредиты малому бизнесу где взять | Про финансы",
+      "url": "https://snegsol.ru/poleznaya-informatsiya/kredity-malomu-biznesu-gde-vzyat/",
+      "snippet": "Кредиты для малого бизнеса являются одним из самых популярных и доступных источников денежных средств.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Банковские гарантии для малого и среднего бизнеса...",
+      "url": "https://www.akcept.ru/corporate_customers/guarantee/",
+      "snippet": "Кредиты Малому бизнесу.... Для предпринимателей и малых предприятий для участия и исполнения обязательств в рамках 44-ФЗ и 223-ФЗ.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Разбираемся в возможностях, которые даёт малому...",
+      "url": "https://www.kazan-potolok.ru/190525/novosti-sberbank-biznes-malomu/",
+      "snippet": "СберБанк предлагает малому бизнесу или ИП следующие привилегии.... Сбербанк и ВТБ будут выдавать кредиты малому бизнесу на выплату зарплат.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "ВТБ стал участником обновленной программы льготного...",
+      "url": "https://newsmariel.ru/news/vtb_stal_uchastnikom_obnovlennoy_programmy_lgotnogo_kreditovaniya_msp/",
+      "snippet": "Она заменит завершившуюся программу «1764» в рамках нацпроекта «Малое и среднее предпринимательство и поддержка индивидуальной...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование малого и среднего бизнеса | Обучение от...",
+      "url": "https://study.schoolvrn.ru/maliy_i_sredniy_biznes_obuchenie_ot_bankov",
+      "snippet": "Кредитование МСБ: требования, программы, залоги, банковские гарантии.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование",
+      "url": "https://code-pilots.ru/services/smallbusiness/credit.php",
+      "snippet": "Кредитование малого и среднего бизнеса является одним из стратегических направлений Банка.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Условия кредитования малого бизнеса: на что обратить...",
+      "url": "https://parmanews.ru/novost/companynews/112956/",
+      "snippet": "Сегодня почти все крупные банки предлагают программы кредитования малого бизнеса.",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "query": "Общие и базовые запросы:",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T04:26:10.960Z",
+  "options": {
+    "page": 8,
+    "filter": 1,
+    "within": 2,
+    "groupby": 10,
+    "loc": 213
+  },
+  "resultsCount": 9,
+  "results": [
+    {
+      "url": "https://comforthouseeg.com/sql-zaprosy-osnovy-vychislenie-i-opredelenie/",
+      "title": "Результат #1",
+      "snippet": "",
+      "position": 1
+    },
+    {
+      "url": "https://prosmm.org/seo/yandex-wordstat/",
+      "title": "Результат #2",
+      "snippet": "",
+      "position": 2
+    },
+    {
+      "url": "https://ege-study.ru/ru/ege/materialy/informatika/zadacha-17-zaprosy-dlya-poiskovyx-sistem/?utm_num_popup=1?utm_num_popup=3?utm_num_popup=4",
+      "title": "Результат #3",
+      "snippet": "",
+      "position": 3
+    },
+    {
+      "url": "https://huseins-organization.gitbook.io/moya-baza-znanii/readme/sql",
+      "title": "Результат #4",
+      "snippet": "",
+      "position": 4
+    },
+    {
+      "url": "https://prokursy.online/blog/proizvoditelnost-http-django-python/",
+      "title": "Результат #5",
+      "snippet": "",
+      "position": 5
+    },
+    {
+      "url": "https://geo.god-tigra.ru/chto-takoye-zapros-na-sozdaniye-obnovleniye-udaleniye.php",
+      "title": "Результат #6",
+      "snippet": "",
+      "position": 6
+    },
+    {
+      "url": "https://datamp.ru/journal/6-sposobov-podobrat-klyuchevye-zaprosy-dlya-optimizacii-kartochki-tovara/",
+      "title": "Результат #7",
+      "snippet": "",
+      "position": 7
+    },
+    {
+      "url": "https://o-skype.ru/ci/zaprosy-v-sistemah-upravleniya-bazami-dannyh-prednaznacheny-dlya/",
+      "title": "Результат #8",
+      "snippet": "",
+      "position": 8
+    },
+    {
+      "url": "https://www.CyberForum.ru/blogs/2408990/10250.html",
+      "title": "Результат #9",
+      "snippet": "",
+      "position": 9
+    }
+  ]
+}

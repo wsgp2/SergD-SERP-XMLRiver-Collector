@@ -1,0 +1,85 @@
+{
+  "query": "кредиты малому бизнесу",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:50:57.470Z",
+  "options": {
+    "groupby": 10,
+    "page": 2,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "Меньше долгов — меньше спроса: последствия...",
+      "url": "https://usticom.ru/news/menshedolgovmen/",
+      "snippet": "Для бизнеса снижение потребительского кредитования может означать охлаждение спроса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитуем малый и средний бизнес для оптовой...",
+      "url": "https://vk.com/wall-41773144_832848",
+      "snippet": "Займ бизнесу ИП ООО на развитие • срочно • без залога - JetLend jetlend.ru.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Открыть депозит для малого бизнеса в Калининграде",
+      "url": "https://www.rshb.ru/business/small/kln",
+      "snippet": "Выгодные бизнес-вклады для малого, среднего и крупного бизнеса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Корпорация МСП: что меняется в законодательстве для...",
+      "url": "https://r51.tmbreg.ru/nacionalnye-proekty/realizaciya-nacproekta-maloe-i-srednee-predprinimatelstvo/arhiv/korporaciya-msp-chto-menyaetsya-v-zakonodatelstve-dlya-malogo-i-srednego-biznesa-v-2025-godu.html",
+      "snippet": "В помощь малому и среднему бизнесу Корпорация МСП подготовила материал с основными изменениями в законодательстве.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Взять кредит как ип в каком банке - Кредитный брокер...",
+      "url": "https://credit24.ru/stati/vzyat-kredit-kak-ip-v-kakom-banke/",
+      "snippet": "Взять кредит как ИП становится все более актуальной задачей в современных экономических условиях.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "О банке «Байкалкредобанк»",
+      "url": "https://registroaba.baikalcredobank.ru/irk/business/about/",
+      "snippet": "кредитование малого и среднего бизнеса; операции межбанковского кредитования; консультации, разработка и оценка бизнес-проектов",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Михаил Мишустин пообещал поддержку малому...",
+      "url": "https://rg.ru/2025/05/19/po-primeru-lomonosova.html",
+      "snippet": "Правительство продолжит поддержку малого и среднего бизнеса, видя в нем один из главных драйверов экономики России, заверил премьер-министр...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Услуги",
+      "url": "https://distribution.biocard.com/services/",
+      "snippet": "Работа с предприятиями малого и среднего бизнеса - одно из стратегически важных направлений деятельности Банка.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Аналитики спрогнозировали рост просрочки... | Forbes.ru",
+      "url": "https://www.forbes.ru/finansy/535834-analitiki-sprognozirovali-rost-prosrocki-i-restrukturizacij-dolgov-malogo-biznesa",
+      "snippet": "В 2025 году доля просроченных долгов малого и среднего бизнеса и число запросов на реструктуризацию кредитов в этом сегменте вырастет...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Новости - АО 'Концерн 'МПО - Гидроприбор'",
+      "url": "https://gidropribor.ru/press/newspages/limit-lgotnoy-programmy-investkreditovaniya-malogo-i-srednego-biznesa-pod-4-i-25-uvelichen-vdvoe.html",
+      "snippet": "Они смогут выдавать малому и среднему бизнесу кредиты как на инвестиционные, так и оборотные цели.",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

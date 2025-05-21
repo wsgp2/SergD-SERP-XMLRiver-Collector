@@ -1,0 +1,75 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T04:29:26.773Z",
+  "options": {
+    "page": 12,
+    "filter": 1,
+    "within": 2,
+    "groupby": 10,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "url": "https://uslugi.yandex.ru/39-rostov-na-donu/category?text=кредит для ип",
+      "title": "Результат #1",
+      "snippet": "",
+      "position": 1
+    },
+    {
+      "url": "https://2gis.ru/kungur/search/Кредит для бизнесс",
+      "title": "Результат #2",
+      "snippet": "",
+      "position": 2
+    },
+    {
+      "url": "https://www.osnova22.ru/240425/novosti-kredit-vtb-dlya-biznesa/",
+      "title": "Результат #3",
+      "snippet": "",
+      "position": 3
+    },
+    {
+      "url": "https://hamachi-soft.ru/kredit/dlya/vladeltsa/biznesa",
+      "title": "Результат #4",
+      "snippet": "",
+      "position": 4
+    },
+    {
+      "url": "https://news.mail.ru/economics/65850333/",
+      "title": "Результат #5",
+      "snippet": "",
+      "position": 5
+    },
+    {
+      "url": "https://www.youtube.com/shorts/kReS7BB7ayo",
+      "title": "Результат #6",
+      "snippet": "",
+      "position": 6
+    },
+    {
+      "url": "https://www.vbr.uz/banki/tyronbank/kredity-dlya-biznesa/mikrokredit--tezkor-/",
+      "title": "Результат #7",
+      "snippet": "",
+      "position": 7
+    },
+    {
+      "url": "https://www.prs-wedding.ru/120525/novosti-alfa-bank-dlya-biznesa-kredit/",
+      "title": "Результат #8",
+      "snippet": "",
+      "position": 8
+    },
+    {
+      "url": "https://finance.mail.ru/2025-04-24/eksperty-prognoziruyut-zamedlenie-kreditovaniya-malogo-i-srednego-biznesa-v-2025-godu-65860327/",
+      "title": "Результат #9",
+      "snippet": "",
+      "position": 9
+    },
+    {
+      "url": "https://fedpress.ru/news/66/economy/3376385",
+      "title": "Результат #10",
+      "snippet": "",
+      "position": 10
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "query": "кредиты малому бизнесу",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T04:31:11.184Z",
+  "options": {
+    "page": 9,
+    "filter": 1,
+    "within": 2,
+    "groupby": 10,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "url": "https://автошкола-светофор.рф/services/smallbusiness/credit.php",
+      "title": "Результат #1",
+      "snippet": "",
+      "position": 1
+    },
+    {
+      "url": "https://www.4dk.ru/content/art/36178-cplus-kak-malomu-biznesu-poluchit-gospodderzhku-subsidii-grantyi-i-lgotnyie-kredityi-20250514",
+      "title": "Результат #2",
+      "snippet": "",
+      "position": 2
+    },
+    {
+      "url": "https://energobank.ru/about/press-center/category/chastnym-klientam/detail/223055/",
+      "title": "Результат #3",
+      "snippet": "",
+      "position": 3
+    },
+    {
+      "url": "https://mbgazeta.ru/arhiv/17-bankov-gotovy-vydavat-lgotnye-kredity-malomu-biznesu/",
+      "title": "Результат #4",
+      "snippet": "",
+      "position": 4
+    },
+    {
+      "url": "https://raexpert.ru/researches/banks/msb_2024/?erid=2Vfnxwk3TZS",
+      "title": "Результат #5",
+      "snippet": "",
+      "position": 5
+    },
+    {
+      "url": "https://jur.remontask.ru/articles/kredit-malomu-biznesu-tochka-bank/",
+      "title": "Результат #6",
+      "snippet": "",
+      "position": 6
+    },
+    {
+      "url": "https://ipotekaicredit.ru/blog/2025/04/24/novye-formy-kreditnogo-obespecheniya-dlya-malogo-biznesa/",
+      "title": "Результат #7",
+      "snippet": "",
+      "position": 7
+    },
+    {
+      "url": "https://seller.ozon.ru/media/money/lizing-faktoring-kredit-biznes-ipoteka-kak-ponyat-chto-nuzhno-biznesu/",
+      "title": "Результат #8",
+      "snippet": "",
+      "position": 8
+    },
+    {
+      "url": "https://www.mos.ru/news/item/153259073/",
+      "title": "Результат #9",
+      "snippet": "",
+      "position": 9
+    },
+    {
+      "url": "https://siapress.ru/official/135214-za-2024-god-subektam-malogo-i-srednego-biznesa-bank-uralsib-vidal-kreditov-na-summu-73-1-mlrd-rubley",
+      "title": "Результат #10",
+      "snippet": "",
+      "position": 10
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T04:27:41.188Z",
+  "options": {
+    "page": 2,
+    "filter": 1,
+    "within": 2,
+    "groupby": 10,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "url": "https://bbr.ru/b2b/credits/kontraktnik",
+      "title": "Результат #1",
+      "snippet": "",
+      "position": 1
+    },
+    {
+      "url": "https://www.economy.gov.ru/material/news/predprinimateli_poluchili_pervye_investicionnye_kredity_po_lgotnoy_programme_pravitelstva_rossii.html",
+      "title": "Результат #2",
+      "snippet": "",
+      "position": 2
+    },
+    {
+      "url": "https://petushki.money-mentor.ru/blog/kak-ip-ili-ooo-vzyat-kredit-na-biznes/",
+      "title": "Результат #3",
+      "snippet": "",
+      "position": 3
+    },
+    {
+      "url": "https://объясняем.рф/articles/news/mikhail-mishustin-poruchil-prodlit-programmu-lgotnogo-kreditovaniya-biznesa-v-novykh-regionakh/",
+      "title": "Результат #4",
+      "snippet": "",
+      "position": 4
+    },
+    {
+      "url": "https://www.sdm.ru/business/credits/guarantees-1/",
+      "title": "Результат #5",
+      "snippet": "",
+      "position": 5
+    },
+    {
+      "url": "https://бк96.рф/tpost/9or75zmdx1-kak-vibrat-optimalnii-kredit-dlya-malogo",
+      "title": "Результат #6",
+      "snippet": "",
+      "position": 6
+    },
+    {
+      "url": "https://lug-info.ru/news/mishustin-poruchil-prodlit-lgotnoe-kreditovanie-biznesa-v-istoricheskih-regionah/",
+      "title": "Результат #7",
+      "snippet": "",
+      "position": 7
+    },
+    {
+      "url": "https://mfcrd.ru/service/d2ab953b-e0ba-4c4e-9085-cf4f8a9fd6e8/",
+      "title": "Результат #8",
+      "snippet": "",
+      "position": 8
+    },
+    {
+      "url": "https://tr-page.yandex.ru/translate?lang=en-ru&amp;url=https://www.investopedia.com/guide-to-establishing-business-credit-11721423",
+      "title": "Результат #9",
+      "snippet": "",
+      "position": 9
+    },
+    {
+      "url": "https://tenchat.ru/media/3341150-biznes-beryot-kredity-pod-3346-godovykh-a-vy",
+      "title": "Результат #10",
+      "snippet": "",
+      "position": 10
+    }
+  ]
+}

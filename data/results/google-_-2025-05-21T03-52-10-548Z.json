@@ -1,0 +1,14 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "GOOGLE",
+  "timestamp": "2025-05-21T03:52:10.548Z",
+  "options": {
+    "domain": 10,
+    "country": 2008,
+    "groupby": 10,
+    "page": 2,
+    "lr": "lang_ru"
+  },
+  "resultsCount": 0,
+  "results": []
+}

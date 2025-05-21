@@ -1,0 +1,85 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:49:44.537Z",
+  "options": {
+    "groupby": 10,
+    "page": 11,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "Корпорация МСП будет давать гарантии участникам СВО...",
+      "url": "https://мсп.рф/services/news/detail/korporatsiya-msp-budet-davat-garantii-uchastnikam-svo-dlya-polucheniya-zaymov-na-otkrytie-biznesa/",
+      "snippet": "При этом размер кредита или займа может составлять от 5 до 50 млн рублей.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование",
+      "url": "https://zabbix.novatour.ru/services/smallbusiness/credit.php",
+      "snippet": "Кредитование малого и среднего бизнеса является одним из стратегических направлений Банка.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Онлайн-сервис с электронными услугами для малого...",
+      "url": "https://office.ru/?target=form&frm=homescreen",
+      "snippet": "В Москве продлили программы льготного кредитования для бизнеса на 2025 год.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Займы для ИП (Индивидуальных предпринимателей) без...",
+      "url": "https://main.investroom.kz/",
+      "snippet": "Онлайн-кредитование действующего бизнеса в нашей компании имеет следующие преимущества: Быстрое решение.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Бизнес-процессы — лучшие книги — стр. 30",
+      "url": "https://www.livelib.ru/genre/Бизнес-процессы/best/~30",
+      "snippet": "Разработка и составление бизнес-плана - это старт для любого бизнеса, будь то привлечение инвестиций, кредитование бизнеса...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Предприниматели получили первые инвестиционные...",
+      "url": "https://мойбизнес-55.рф/info/news/predprinimateli-poluchili-pervye-investitsionnye-kredity-po-lgotnoy-programme-pravitelstva-rossii/",
+      "snippet": "Льготный кредит МСП Банка позволит быстрее выйти на окупаемость и даст нам возможность разрабатывать новые проекты в сфере гостеприимства»...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредит онлайн для вашего бизнеса. Forte Bank...",
+      "url": "https://business.forte.kz/ru/zaem_online?1}}ydaxn'/\"%3Cqnggn=1",
+      "snippet": "Онлайн займы для ИП и ТОО от Forte Bank - простое и удобное решение для финансовых потребностей вашего бизнеса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Займ юридическому лицу - Информагентство...",
+      "url": "https://smolensk-i.ru/partners/zajm-yuridicheskomu-liczu_593107",
+      "snippet": "Для новых компаний получить банковский кредит можно, предоставив бизнес-план и залог.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Читать все про путь предпринимателя: 7 банков, дающих...",
+      "url": "https://www.dr-igonin-clinic-med.ru/220425/novosti-alfa-bank-dlya-biznesa-kredit/",
+      "snippet": "Подать заявку на кредит для малого бизнеса в Альфа-Банке и узнать предварительное решение можно онлайн.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "ВТБ начал принимать заявки на реструктуризацию...",
+      "url": "https://www.n-ngrad.ru/190525/novosti-vtb-kredit-dlya-yuridicheskih-lits/",
+      "snippet": "Кредиты ВТБ 24 для малого бизнеса, юридических лиц и ИП — Кредит для бизнеса.",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

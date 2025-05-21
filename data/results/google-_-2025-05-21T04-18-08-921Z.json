@@ -1,0 +1,77 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "GOOGLE",
+  "timestamp": "2025-05-21T04:18:08.921Z",
+  "options": {
+    "domain": 10,
+    "country": 2008,
+    "page": 1,
+    "groupby": 10,
+    "lr": "lang_ru",
+    "filter": 1,
+    "tbs": "qdr:m"
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "url": "https://alfabank.ru/sme/profits/businesscredit/",
+      "title": "Результат #1",
+      "snippet": "",
+      "position": 1
+    },
+    {
+      "url": "https://www.sravni.ru/biznes-kredity/",
+      "title": "Результат #2",
+      "snippet": "",
+      "position": 2
+    },
+    {
+      "url": "https://www.psbank.ru/business/loans",
+      "title": "Результат #3",
+      "snippet": "",
+      "position": 3
+    },
+    {
+      "url": "https://www.vtb.ru/malyj-biznes/kredity-i-garantii/",
+      "title": "Результат #4",
+      "snippet": "",
+      "position": 4
+    },
+    {
+      "url": "https://www.sberbank.com/ru/s_m_business/credits",
+      "title": "Результат #5",
+      "snippet": "",
+      "position": 5
+    },
+    {
+      "url": "https://www.tbank.ru/business/credit/",
+      "title": "Результат #6",
+      "snippet": "",
+      "position": 6
+    },
+    {
+      "url": "https://sovcombank.ru/apply/business/credit/bez-zaloga/",
+      "title": "Результат #7",
+      "snippet": "",
+      "position": 7
+    },
+    {
+      "url": "https://domrfbank.ru/sme/credits/",
+      "title": "Результат #8",
+      "snippet": "",
+      "position": 8
+    },
+    {
+      "url": "https://mspbank.ru/express/",
+      "title": "Результат #9",
+      "snippet": "",
+      "position": 9
+    },
+    {
+      "url": "https://tochka.com/credits/",
+      "title": "Результат #10",
+      "snippet": "",
+      "position": 10
+    }
+  ]
+}

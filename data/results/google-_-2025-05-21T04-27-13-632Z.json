@@ -1,0 +1,610 @@
+{
+  "query": "Общие и базовые запросы:",
+  "engine": "GOOGLE",
+  "timestamp": "2025-05-21T04:27:13.632Z",
+  "options": {
+    "page": 1,
+    "filter": 1,
+    "within": 2,
+    "groupby": 100,
+    "country": 2008,
+    "domain": 10
+  },
+  "resultsCount": 99,
+  "results": [
+    {
+      "url": "https://skillbox.ru/media/code/sqlzaprosy-osnovnye-komandy-dlya-upravleniya-bazami-dannykh/",
+      "title": "Результат #1",
+      "snippet": "",
+      "position": 1
+    },
+    {
+      "url": "https://community.exolve.ru/blog/komandy-sql-i-zaprosy-s-primerami/",
+      "title": "Результат #2",
+      "snippet": "",
+      "position": 2
+    },
+    {
+      "url": "https://pixelplus.ru/studio/stat/tipy-poiskovykh-zaprosov/",
+      "title": "Результат #3",
+      "snippet": "",
+      "position": 3
+    },
+    {
+      "url": "https://habr.com/ru/articles/480838/",
+      "title": "Результат #4",
+      "snippet": "",
+      "position": 4
+    },
+    {
+      "url": "https://practicum.yandex.ru/blog/sql-zaprosy-dlya-upravleniya-bazami-dannyh/",
+      "title": "Результат #5",
+      "snippet": "",
+      "position": 5
+    },
+    {
+      "url": "https://blog.productstar.ru/kakie-sql-zaprosy-dolzhen-znat-kazhdyj/",
+      "title": "Результат #6",
+      "snippet": "",
+      "position": 6
+    },
+    {
+      "url": "https://tproger.ru/translations/sql-recap",
+      "title": "Результат #7",
+      "snippet": "",
+      "position": 7
+    },
+    {
+      "url": "https://sql-academy.org/ru/guide/basic-syntax-sql-query",
+      "title": "Результат #8",
+      "snippet": "",
+      "position": 8
+    },
+    {
+      "url": "https://proglib.io/p/osnovnye-sql-komandy-i-zaprosy-s-primerami-kotorye-dolzhen-znat-kazhdyy-razrabotchik-2022-04-14",
+      "title": "Результат #9",
+      "snippet": "",
+      "position": 9
+    },
+    {
+      "url": "https://sky.pro/media/sql-zaprosy/",
+      "title": "Результат #10",
+      "snippet": "",
+      "position": 10
+    },
+    {
+      "url": "https://kurshub.ru/journal/blog/sql-zaprosy-chto-eto/",
+      "title": "Результат #11",
+      "snippet": "",
+      "position": 11
+    },
+    {
+      "url": "https://support.microsoft.com/ru-ru/topic/access-sql-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D1%8F-%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B0-%D0%B8-%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81-444d0303-cde1-424e-9a74-e8dc3e460671",
+      "title": "Результат #12",
+      "snippet": "",
+      "position": 12
+    },
+    {
+      "url": "https://itvdn.com/ru/blog/article/m-sql",
+      "title": "Результат #13",
+      "snippet": "",
+      "position": 13
+    },
+    {
+      "url": "https://postgrespro.ru/docs/postgresql/9.5/queries-with",
+      "title": "Результат #14",
+      "snippet": "",
+      "position": 14
+    },
+    {
+      "url": "https://help.reg.ru/support/servery-vps/oblachnyye-bazy-dannykh/zakaz-i-upravleniye-uslugoy-oblachnyye-bazy-dannykh/osnovnyye-komandy-sql",
+      "title": "Результат #15",
+      "snippet": "",
+      "position": 15
+    },
+    {
+      "url": "https://www.hocktraining.com/blog/operatory-sql-zaprosov",
+      "title": "Результат #16",
+      "snippet": "",
+      "position": 16
+    },
+    {
+      "url": "https://skyeng.ru/it-industry/programming/chto-takoe-zapros-v-bd-i-kak-ego-sostavit/",
+      "title": "Результат #17",
+      "snippet": "",
+      "position": 17
+    },
+    {
+      "url": "https://blog.skillfactory.ru/polnoe-rukovodstvo-po-zaprosam-sql/",
+      "title": "Результат #18",
+      "snippet": "",
+      "position": 18
+    },
+    {
+      "url": "https://support.microsoft.com/ru-ru/topic/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%B0%D0%BC%D0%B8-a9739a09-d3ff-4f36-8ac3-5760249fb65c",
+      "title": "Результат #19",
+      "snippet": "",
+      "position": 19
+    },
+    {
+      "url": "https://deveducation.com/blog/sql-zaprosy-dlya-nachinayushchih/",
+      "title": "Результат #20",
+      "snippet": "",
+      "position": 20
+    },
+    {
+      "url": "https://ya.ru/neurum/c/nauka-i-obrazovanie/q/kakie_suschestvuyut_osnovnye_tipy_sqlzaprosov_e40c07be",
+      "title": "Результат #21",
+      "snippet": "",
+      "position": 21
+    },
+    {
+      "url": "https://aws.amazon.com/ru/what-is/sql/",
+      "title": "Результат #22",
+      "snippet": "",
+      "position": 22
+    },
+    {
+      "url": "https://habr.com/ru/companies/ssp-soft/articles/872764/",
+      "title": "Результат #23",
+      "snippet": "",
+      "position": 23
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=Zf8M3xJaMEc",
+      "title": "Результат #24",
+      "snippet": "",
+      "position": 24
+    },
+    {
+      "url": "https://blog.skillfactory.ru/glossary/sql/",
+      "title": "Результат #25",
+      "snippet": "",
+      "position": 25
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=gnvA47b3TRQ",
+      "title": "Результат #26",
+      "snippet": "",
+      "position": 26
+    },
+    {
+      "url": "https://practicum.yandex.ru/blog/chto-takoe-sql/",
+      "title": "Результат #27",
+      "snippet": "",
+      "position": 27
+    },
+    {
+      "url": "https://www.kcrinfo.ru/faq.php?section=spravochniki&amp;element=obshchie-obyazatelnye-pravila-zapolneniya-formy-zaprosa",
+      "title": "Результат #28",
+      "snippet": "",
+      "position": 28
+    },
+    {
+      "url": "https://pro.arcgis.com/ru/pro-app/3.3/help/mapping/navigation/sql-reference-for-elements-used-in-query-expressions.htm",
+      "title": "Результат #29",
+      "snippet": "",
+      "position": 29
+    },
+    {
+      "url": "https://proglib.io/p/top-10-samyh-chasto-ispolzuemyh-zaprosov-mysql-2023-01-25",
+      "title": "Результат #30",
+      "snippet": "",
+      "position": 30
+    },
+    {
+      "url": "https://otus.ru/journal/vse-chto-nuzhno-znat-pro-ms-sql-zaprosy-prosto-i-bystro/",
+      "title": "Результат #31",
+      "snippet": "",
+      "position": 31
+    },
+    {
+      "url": "http://profil.adu.by/mod/book/tool/print/index.php?id=3438",
+      "title": "Результат #32",
+      "snippet": "",
+      "position": 32
+    },
+    {
+      "url": "https://ya.ru/neurum/c/nauka-i-obrazovanie/q/kakie_osnovnye_otlichiya_mezhdu_sqlzaprosami_ffeb1697",
+      "title": "Результат #33",
+      "snippet": "",
+      "position": 33
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pSg8qlMXKf4",
+      "title": "Результат #34",
+      "snippet": "",
+      "position": 34
+    },
+    {
+      "url": "https://ami.nstu.ru/~vms/method3/Method1_pgs.htm",
+      "title": "Результат #35",
+      "snippet": "",
+      "position": 35
+    },
+    {
+      "url": "https://help.gisserver.ru/ru/mapdba/ocdb.html",
+      "title": "Результат #36",
+      "snippet": "",
+      "position": 36
+    },
+    {
+      "url": "https://vk.com/@1tworks-14-naibolee-chasto-ispolzuemyh-zaprosov-sql-na-sobesedovanii",
+      "title": "Результат #37",
+      "snippet": "",
+      "position": 37
+    },
+    {
+      "url": "https://docs.ai-assistant.is74.ru/books/platforma-avtomatizacii-kontakt-centrov/page/sql-zaprosy-zaprosy-k-bd",
+      "title": "Результат #38",
+      "snippet": "",
+      "position": 38
+    },
+    {
+      "url": "https://sky.pro/wiki/sql/osnovnye-operatory-sql/",
+      "title": "Результат #39",
+      "snippet": "",
+      "position": 39
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/HTTP",
+      "title": "Результат #40",
+      "snippet": "",
+      "position": 40
+    },
+    {
+      "url": "https://foxminded.ua/ru/sql-zaprosy/",
+      "title": "Результат #41",
+      "snippet": "",
+      "position": 41
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hrM_bs5njXE",
+      "title": "Результат #42",
+      "snippet": "",
+      "position": 42
+    },
+    {
+      "url": "https://pavlov-rags.narod.ru/Accsess2010/HTML_doc/Tema7.htm",
+      "title": "Результат #43",
+      "snippet": "",
+      "position": 43
+    },
+    {
+      "url": "https://docs.tantorlabs.ru/tdb/ru/16_8/se/queries-with.html",
+      "title": "Результат #44",
+      "snippet": "",
+      "position": 44
+    },
+    {
+      "url": "https://oro.moscow/kak-rabotaet-be-osnovnye-voprosy/",
+      "title": "Результат #45",
+      "snippet": "",
+      "position": 45
+    },
+    {
+      "url": "https://help.gisserver.ru/ua/mapdba/zdb.html",
+      "title": "Результат #46",
+      "snippet": "",
+      "position": 46
+    },
+    {
+      "url": "https://www.dev-notes.ru/articles/devops/understand-the-sql-execution-order/",
+      "title": "Результат #47",
+      "snippet": "",
+      "position": 47
+    },
+    {
+      "url": "https://sozialplattform.de/ru/content/osnovnye-voprosy-allgemeine-fragen",
+      "title": "Результат #48",
+      "snippet": "",
+      "position": 48
+    },
+    {
+      "url": "https://repo.quantom.info/qhb/std-1/doc-1.4.0/SQL/qhb_queries.html",
+      "title": "Результат #49",
+      "snippet": "",
+      "position": 49
+    },
+    {
+      "url": "https://www.ispsystem.ru/docs/general-kb",
+      "title": "Результат #50",
+      "snippet": "",
+      "position": 50
+    },
+    {
+      "url": "https://docs.itvgroup.ru/confluence/pages/viewpage.action?pageId=137628972",
+      "title": "Результат #51",
+      "snippet": "",
+      "position": 51
+    },
+    {
+      "url": "https://dzen.ru/a/Z4kI0Q-twF9EiYBA",
+      "title": "Результат #52",
+      "snippet": "",
+      "position": 52
+    },
+    {
+      "url": "https://acad-2008.narod.ru/WS1a9193826455f5ffa23ce210c4a30acaf-591f.htm",
+      "title": "Результат #53",
+      "snippet": "",
+      "position": 53
+    },
+    {
+      "url": "https://serverspace.ru/support/help/primery-sql-zaprosov-k-baze-dannyh-mysql/",
+      "title": "Результат #54",
+      "snippet": "",
+      "position": 54
+    },
+    {
+      "url": "https://devopsgu.ru/dba/edgedb/edgeql-basic-querying/",
+      "title": "Результат #55",
+      "snippet": "",
+      "position": 55
+    },
+    {
+      "url": "https://help.fsight.ru/8.2/ru/mergedProjects/UiExpress/purpose/uiexpress_purpose.htm",
+      "title": "Результат #56",
+      "snippet": "",
+      "position": 56
+    },
+    {
+      "url": "https://shultais.education/blog/sql-for-beginners/sql-compex-where",
+      "title": "Результат #57",
+      "snippet": "",
+      "position": 57
+    },
+    {
+      "url": "https://appmaster.io/ru/blog/kak-optimizirovat-sql-zaprosy-dlia-rdbms",
+      "title": "Результат #58",
+      "snippet": "",
+      "position": 58
+    },
+    {
+      "url": "https://v8.1c.ru/priobretenie-i-vnedrenie/otvety-na-tipovye-voprosy-po-litsenzirovaniyu-1s-predpriyatiya-8/",
+      "title": "Результат #59",
+      "snippet": "",
+      "position": 59
+    },
+    {
+      "url": "https://sherloc.unodc.org/cld/ru/education/tertiary/tip-and-som/module-7/key-issues/intro.html",
+      "title": "Результат #60",
+      "snippet": "",
+      "position": 60
+    },
+    {
+      "url": "http://openknowledge.fao.org/items/8b6c1c48-f67c-489a-8546-99eca85fe54c",
+      "title": "Результат #61",
+      "snippet": "",
+      "position": 61
+    },
+    {
+      "url": "https://labex.io/ru/tutorials/postgresql-basic-data-operations-in-postgresql-550897",
+      "title": "Результат #62",
+      "snippet": "",
+      "position": 62
+    },
+    {
+      "url": "https://interocitor.livejournal.com/17721.html",
+      "title": "Результат #63",
+      "snippet": "",
+      "position": 63
+    },
+    {
+      "url": "https://togudv.ru/ru/recruitment/graduates/interview/",
+      "title": "Результат #64",
+      "snippet": "",
+      "position": 64
+    },
+    {
+      "url": "https://octotelecom.uz/ru/rest-api/",
+      "title": "Результат #65",
+      "snippet": "",
+      "position": 65
+    },
+    {
+      "url": "https://hh.ru/article/301547",
+      "title": "Результат #66",
+      "snippet": "",
+      "position": 66
+    },
+    {
+      "url": "https://openu.ru/books/sql/query-language/",
+      "title": "Результат #67",
+      "snippet": "",
+      "position": 67
+    },
+    {
+      "url": "https://www.wassenaar.org/ru/about-us/",
+      "title": "Результат #68",
+      "snippet": "",
+      "position": 68
+    },
+    {
+      "url": "https://support.kaspersky.ru/help/KUMA/1.6/ru-RU/228356.htm",
+      "title": "Результат #69",
+      "snippet": "",
+      "position": 69
+    },
+    {
+      "url": "https://www.vsavm.by/knigi/kniga3/1440.html",
+      "title": "Результат #70",
+      "snippet": "",
+      "position": 70
+    },
+    {
+      "url": "https://new.fips.ru/to-applicants/software-and-databases/",
+      "title": "Результат #71",
+      "snippet": "",
+      "position": 71
+    },
+    {
+      "url": "https://support.brave.com/hc/ru/sections/25778073622797-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BE-%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%B0%D1%85",
+      "title": "Результат #72",
+      "snippet": "",
+      "position": 72
+    },
+    {
+      "url": "https://apps.who.int/iris/bitstream/handle/10665/311527/9789244513316-rus.pdf?ua=1",
+      "title": "Результат #73",
+      "snippet": "",
+      "position": 73
+    },
+    {
+      "url": "https://www.iseo.ru/glossary/poiskovyj-zapros/",
+      "title": "Результат #74",
+      "snippet": "",
+      "position": 74
+    },
+    {
+      "url": "https://studfile.net/preview/5274111/page:96/",
+      "title": "Результат #75",
+      "snippet": "",
+      "position": 75
+    },
+    {
+      "url": "https://platform.gov.ru/faq_category/obshhie-voprosy/",
+      "title": "Результат #76",
+      "snippet": "",
+      "position": 76
+    },
+    {
+      "url": "http://www.consultant.ru/document/cons_doc_LAW_100443/fd6bbc4d868c2cf06dfcc4d9dc7291ac62fe29e3/",
+      "title": "Результат #77",
+      "snippet": "",
+      "position": 77
+    },
+    {
+      "url": "https://www.1c-kpd.ru/knowledge/obshchie-voprosy-po-deloproizvodstvu/",
+      "title": "Результат #78",
+      "snippet": "",
+      "position": 78
+    },
+    {
+      "url": "http://zelark.github.io/8-tips-to-make-your-sql-more-readable/",
+      "title": "Результат #79",
+      "snippet": "",
+      "position": 79
+    },
+    {
+      "url": "https://forum.dle-news.ru/topic/71920-%D0%B1%D0%B0%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/",
+      "title": "Результат #80",
+      "snippet": "",
+      "position": 80
+    },
+    {
+      "url": "https://forum.altlinux.org/index.php?topic=44859.0",
+      "title": "Результат #81",
+      "snippet": "",
+      "position": 81
+    },
+    {
+      "url": "https://mordovia.megafon.ru/corporate/help/faq/baza_znanij_lk/nachalo_raboty_nastrojki/obshchie_principy_raboty",
+      "title": "Результат #82",
+      "snippet": "",
+      "position": 82
+    },
+    {
+      "url": "https://www.mos.ru/news/item/81227073/",
+      "title": "Результат #83",
+      "snippet": "",
+      "position": 83
+    },
+    {
+      "url": "https://torgi223.ru/blog/osnovnye-dokumenty-primenyaemye-dlya-sostavleniya-zayavki-v-ramkah-223-fz/",
+      "title": "Результат #84",
+      "snippet": "",
+      "position": 84
+    },
+    {
+      "url": "https://www.business-humanrights.org/ru/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B/",
+      "title": "Результат #85",
+      "snippet": "",
+      "position": 85
+    },
+    {
+      "url": "https://laravel.ru/docs/v3/database/raw",
+      "title": "Результат #86",
+      "snippet": "",
+      "position": 86
+    },
+    {
+      "url": "https://www.agsmovers.ru/c%D0%B2%D1%8F%D0%B6%D0%B8%D1%82%D0%B5%D1%81%D1%8C-%D1%81-%D0%BD%D0%B0%D0%BC%D0%B8/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B/",
+      "title": "Результат #87",
+      "snippet": "",
+      "position": 87
+    },
+    {
+      "url": "https://support.cryptopro.ru/index.php?/Knowledgebase/List/Index/37/obshhie-voprosy",
+      "title": "Результат #88",
+      "snippet": "",
+      "position": 88
+    },
+    {
+      "url": "https://help.sap.com/docs/SAP_S4HANA_CLOUD/adbae5bcd5994f159bf2847a11397b61/e872b8794c07491eb848bcbfa4fb1373.html?locale=ru-RU",
+      "title": "Результат #89",
+      "snippet": "",
+      "position": 89
+    },
+    {
+      "url": "https://astral.ru/help/",
+      "title": "Результат #90",
+      "snippet": "",
+      "position": 90
+    },
+    {
+      "url": "https://github.com/enhorse/java-interview/blob/master/jdbc.md",
+      "title": "Результат #91",
+      "snippet": "",
+      "position": 91
+    },
+    {
+      "url": "https://cv2you.com/blog/ru/voprosi-na-sobesedovanii/",
+      "title": "Результат #92",
+      "snippet": "",
+      "position": 92
+    },
+    {
+      "url": "https://artisan-team.ru/seo-wiki/obshhie-poiskovye-zaprosy/",
+      "title": "Результат #93",
+      "snippet": "",
+      "position": 93
+    },
+    {
+      "url": "https://firststeps.ru/msoffice/access/r.php?21",
+      "title": "Результат #94",
+      "snippet": "",
+      "position": 94
+    },
+    {
+      "url": "https://forum.cs-cart.ru/t/klyuchevye-slova-dlya-poiska-na-sajte/20429",
+      "title": "Результат #95",
+      "snippet": "",
+      "position": 95
+    },
+    {
+      "url": "https://ugod.ru/osnovnye-zaprosy-dlya-remonta-sql-bazy-dannyh-effektivnye-strategii-i-luchshie-praktiki/",
+      "title": "Результат #96",
+      "snippet": "",
+      "position": 96
+    },
+    {
+      "url": "https://www.reddit.com/r/golang/comments/1e7jb6l/repository_that_accepts_a_generic_query_for/?tl=ru",
+      "title": "Результат #97",
+      "snippet": "",
+      "position": 97
+    },
+    {
+      "url": "https://docs.oracle.com/cloud/help/ru/analytics-cloud/ACABI/GUID-3E951D59-0972-4B5F-A696-8140FEFC6C4B.htm",
+      "title": "Результат #98",
+      "snippet": "",
+      "position": 98
+    },
+    {
+      "url": "https://hyperhost.ua/info/ru/optimizatsiya-sayta-pod-golosovyie-zaprosyi-osnovnyie-shagi",
+      "title": "Результат #99",
+      "snippet": "",
+      "position": 99
+    }
+  ]
+}

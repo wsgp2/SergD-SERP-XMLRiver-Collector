@@ -1,0 +1,75 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T04:28:40.364Z",
+  "options": {
+    "page": 6,
+    "filter": 1,
+    "within": 2,
+    "groupby": 10,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "url": "https://www.dsv34.ru/goods/kredity/",
+      "title": "Результат #1",
+      "snippet": "",
+      "position": 1
+    },
+    {
+      "url": "https://rabota.sber.ru/search/4423461/",
+      "title": "Результат #2",
+      "snippet": "",
+      "position": 2
+    },
+    {
+      "url": "https://finance.inguro.ru/business",
+      "title": "Результат #3",
+      "snippet": "",
+      "position": 3
+    },
+    {
+      "url": "http://gabim.lechimrostov.ru/kemez",
+      "title": "Результат #4",
+      "snippet": "",
+      "position": 4
+    },
+    {
+      "url": "https://avtourst.info/?_=/sme/profits/kredit-dlya-ooo/#PzuYd3MCZIzMact1inRiBnk9mQ==",
+      "title": "Результат #5",
+      "snippet": "",
+      "position": 5
+    },
+    {
+      "url": "https://www.luxecorp.ru/blog/finansy/vidy-kreditov-dlya-biznesa/",
+      "title": "Результат #6",
+      "snippet": "",
+      "position": 6
+    },
+    {
+      "url": "https://мойбизнес-33.рф/news/malomu-i-srednemu-biznesu-dostupny-investitsionnye-kredity-po-programme-lgotnogo-kreditovaniya-msp/",
+      "title": "Результат #7",
+      "snippet": "",
+      "position": 7
+    },
+    {
+      "url": "https://bkfinance.kz/business",
+      "title": "Результат #8",
+      "snippet": "",
+      "position": 8
+    },
+    {
+      "url": "https://planfact.io/blog/posts/kredit-ili-pribyl-chto-vygodnee-dlya-razvitiya-biznesa",
+      "title": "Результат #9",
+      "snippet": "",
+      "position": 9
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wVDhbLYwYGA",
+      "title": "Результат #10",
+      "snippet": "",
+      "position": 10
+    }
+  ]
+}

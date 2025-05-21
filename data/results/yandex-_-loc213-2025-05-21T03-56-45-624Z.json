@@ -1,0 +1,85 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:56:45.625Z",
+  "options": {
+    "groupby": 10,
+    "page": 6,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "Страхование вкладов",
+      "url": "https://kk.bank/deposits/deposit_insurance/",
+      "snippet": "Получите выгодный кредит для реализации целей вашего бизнеса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "altai.tpprf.ru/ru/news/414425/?print-mode",
+      "url": "https://altai.tpprf.ru/ru/news/414425/?print-mode",
+      "snippet": "В Банке «Левобережный» оптимизирован процесс открытия лимитов овердрафта для компаний малого и среднего бизнеса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "klg.megafon.ru/corporate/special/modulkassa",
+      "url": "https://klg.megafon.ru/corporate/special/modulkassa",
+      "snippet": "Бизнес‑кредит. Индивидуальное кредитование бизнеса. От 20%. Выберите готовое решение и узнайте сумму кредита, не открывая расчётный счёт.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредиты в РФ",
+      "url": "https://essebot.ru/ai-project/kredity-v-rf/",
+      "snippet": "Кредиты в России - это финансовая услуга, предоставляемая банками и другими финансовыми организациями гражданам и компаниям.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Эквайринг как провести по бухгалтерскому учету &gt; Льготы...",
+      "url": "http://gabim.lechimrostov.ru/kemez",
+      "snippet": "кабинет для юридических Эквайринг как провести по бухгалтерскому учету 571448 89588309225 n9s l 46zo5 ВТБ бизнес онлайн мобильная версия для...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитный калькулятор для бизнеса от ...",
+      "url": "https://avtourst.info/?_=/sme/profits-new/#PzuYd3MCZIzMact1inRiBnk9mQ==",
+      "snippet": "Калькулятор кредита для бизнеса позволит вам сравнить различные кредитные программы и выбрать наиболее подходящий вариант.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "ВТБ﻿ запустил для клиентов среднего и малого бизнеса...",
+      "url": "https://www.katgolunovaphoto.ru/200525/novosti-kredit-vtb-dlya-biznesa/",
+      "snippet": "Однако в ВТБ кредит для бизнеса на самом старте можно взять сразу по трем тарифам.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "КРЕДИТ ДЛЯ IT БИЗНЕСА – Telesearching.com",
+      "url": "https://tele-searching.com/kredit-dlya-it-biznesa",
+      "snippet": "Kredit_dlya_IT_biznesa.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Помощь в подготовке кадров и льготное кредитование...",
+      "url": "https://www.gov.spb.ru/gov/admin/moskalenko-vn/news/298517/",
+      "snippet": "Важно поддержать петербургский бизнес по этим направлениям», - отметил Валерий Москаленко.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредит Для малого бизнеса в Ульяновске",
+      "url": "https://rassrochkicard.ru/kredit-dlya-malogo-biznesa-v-ulyanovske/",
+      "snippet": "Кредит для пенсионеров Почта Банк.... Заявка на кредит. Кредит для военнослужащих ПСБ.",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

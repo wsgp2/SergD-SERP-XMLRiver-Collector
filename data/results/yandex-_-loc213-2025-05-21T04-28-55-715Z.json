@@ -1,0 +1,75 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T04:28:55.715Z",
+  "options": {
+    "page": 8,
+    "filter": 1,
+    "within": 2,
+    "groupby": 10,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "url": "https://www.regberry.ru/news/pravitelstvo-i-centrobank-zapustili-lgotnoe-kreditovanie-biznesa",
+      "title": "Результат #1",
+      "snippet": "",
+      "position": 1
+    },
+    {
+      "url": "http://sroroo.ru/evaluators/part/3436184/",
+      "title": "Результат #2",
+      "snippet": "",
+      "position": 2
+    },
+    {
+      "url": "https://murmansk.megafon.ru/corporate/special/modulkassa",
+      "title": "Результат #3",
+      "snippet": "",
+      "position": 3
+    },
+    {
+      "url": "https://gradmsk.ru/video/aa600b07c8155d2fcc19391c62ea0a41/",
+      "title": "Результат #4",
+      "snippet": "",
+      "position": 4
+    },
+    {
+      "url": "https://dtf.ru/dengi/3166254-kredity-dlya-samozanyatyh-v-2024-2025-godu-top-18-bankov-reiting",
+      "title": "Результат #5",
+      "snippet": "",
+      "position": 5
+    },
+    {
+      "url": "https://tula.skidkom.ru/partner/kreditnoe-agentstvo-stolitsa-finance/nashi-uslugi/111088-nashi-specialisty/863172-belova-inna-vladimirovna/",
+      "title": "Результат #6",
+      "snippet": "",
+      "position": 6
+    },
+    {
+      "url": "https://www.kommersant.ru/doc/7675640",
+      "title": "Результат #7",
+      "snippet": "",
+      "position": 7
+    },
+    {
+      "url": "https://shemelov.com/?_=/for-corporate/kreditovanie/#5dPFX+wrbLDOINBaF8tg5+TK1E23aijp2jiT",
+      "title": "Результат #8",
+      "snippet": "",
+      "position": 8
+    },
+    {
+      "url": "https://investstarter.ru/investoryi/?query=&amp;country=&amp;valuta_project=&amp;field=&amp;payback_from=24&amp;payback_to=600&amp;price_from=1500000&amp;price_to=100000000000",
+      "title": "Результат #9",
+      "snippet": "",
+      "position": 9
+    },
+    {
+      "url": "https://www.agroprombank.com/korporativnym-klientam/kreditovanie/poluchit-kredit/",
+      "title": "Результат #10",
+      "snippet": "",
+      "position": 10
+    }
+  ]
+}

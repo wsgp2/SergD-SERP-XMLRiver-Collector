@@ -1,0 +1,75 @@
+{
+  "query": "бизнес кредит онлайн",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T04:31:54.993Z",
+  "options": {
+    "page": 1,
+    "filter": 1,
+    "within": 2,
+    "groupby": 10,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "url": "https://Fin-Service.su/kredit-dlya-biznesa/",
+      "title": "Результат #1",
+      "snippet": "",
+      "position": 1
+    },
+    {
+      "url": "https://uprice.pro/kreditovanie-biznesa/",
+      "title": "Результат #2",
+      "snippet": "",
+      "position": 2
+    },
+    {
+      "url": "https://bbr.ru/b2b/credits/kontraktnik",
+      "title": "Результат #3",
+      "snippet": "",
+      "position": 3
+    },
+    {
+      "url": "https://mosbk.ru/services/dlia-biznesa/ip/kredit-dlya-ip/",
+      "title": "Результат #4",
+      "snippet": "",
+      "position": 4
+    },
+    {
+      "url": "https://1000bankov.ru/bank/1326/biznes-kredit-do-150-mln-rub-na-razvitie-biznesa/",
+      "title": "Результат #5",
+      "snippet": "",
+      "position": 5
+    },
+    {
+      "url": "https://bankinform.ru/news/137688",
+      "title": "Результат #6",
+      "snippet": "",
+      "position": 6
+    },
+    {
+      "url": "https://www.sdm.ru/business/credits/guarantees-1/",
+      "title": "Результат #7",
+      "snippet": "",
+      "position": 7
+    },
+    {
+      "url": "https://www.Avito.ru/sankt-peterburg/predlozheniya_uslug/kredit_dlya_biznesa_ot_1_mln_nadezhnaya_pomosch_7379723340",
+      "title": "Результат #8",
+      "snippet": "",
+      "position": 8
+    },
+    {
+      "url": "https://pikabu.ru/story/zaymyi_dlya_biznesa_onlayn__vzyat_srochnyiy_zaym_dlya_malogo_biznesa_bez_zaloga_i_poruchiteley_12663020",
+      "title": "Результат #9",
+      "snippet": "",
+      "position": 9
+    },
+    {
+      "url": "https://web.archive.org/web/20231203001713/https://www.vtb.ru/malyj-biznes/tarify-i-komissii/",
+      "title": "Результат #10",
+      "snippet": "",
+      "position": 10
+    }
+  ]
+}

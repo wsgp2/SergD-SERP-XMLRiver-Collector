@@ -1,0 +1,78 @@
+{
+  "query": "Общие и базовые запросы:",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:46:21.313Z",
+  "options": {
+    "groupby": 10,
+    "page": 1,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 9,
+  "results": [
+    {
+      "title": "А как определить наиболее эффективные...",
+      "url": "https://vk.com/wall-230376735_3005",
+      "snippet": "Введите в Google или Яндекс базовый запрос и посмотрите, какие варианты длинных фраз предлагают поисковики.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Общие сведения о запросах LINQ - C# | News Directory",
+      "url": "https://dir.md/learn.microsoft.com/ru-ru/dotnet/articles/csharp/linq/get-started/introduction-to-linq-queries",
+      "snippet": "Для запроса и преобразования данных в XML-документах, базах данных SQL, коллекциях .NET и любом другом формате при наличии поставщика LINQ используются те же базовые шаблоны программирования.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "SQL - полный курс для аналитиков данных с нуля",
+      "url": "https://ricktube.ru/watch/FODz05lDHY0",
+      "snippet": "Синтаксис CTE позволяет объявить подзапросы в начале основного запроса, что делает итоговый запрос более понятным и читаемым.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Различия функций языка запросов 1С и SQL",
+      "url": "https://kos.koderline.ru/bitrix24/articles/narabotki/article-razlichiya-deklarativnogo-yazyka-programmirovaniya-sql-i-vnutrennego-yazyka-zaprosov-1s/",
+      "snippet": "В данной статье мы поговорим об основных отличиях стандартного SQL и языка запросов 1С.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Развёртывание и базовая настройка LibreChat — Desktop...",
+      "url": "https://www.linux.org.ru/articles/desktop/17933224",
+      "snippet": "LLM не делает служебный запрос для поиска RAG в базовом сценарии (агенты могут работать иначе).",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Создание семантического ядра для seo: пошаговое...",
+      "url": "https://seo-kompaniya.ru/blog/seo-semanticeskoe-iadro/",
+      "snippet": "Семантическая близость запросов. Еще одной сложностью является определение семантической близости между запросами и подбор оптимальных вариантов для расширения семантического ядра.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Google Ads: Как Анализ Минус-Слов и Отчетность...",
+      "url": "https://external.software/archives/21571",
+      "snippet": "Общий отчет: Обзор основных показателей кампании (затраты, показы, клики, конверсии, ценность конверсии).",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "SQL тренажер: Получите информацию о колонках",
+      "url": "https://sqltest.online/ru/question/favorites/get-information-about-the-columns",
+      "snippet": "Практикуйте широкий спектр SQL-задач, от базовых запросов до сложных техник.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "kbr-novosti.myindostan.ru/send-request",
+      "url": "http://kbr-novosti.myindostan.ru/send-request",
+      "snippet": "В частности, наряду с базовыми запросами, мы используем дополнительные, низко- и среднечастотные запросы, что существенно увеличивает приток целевых посетителей из поисковых систем, т.е. именно тех...",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

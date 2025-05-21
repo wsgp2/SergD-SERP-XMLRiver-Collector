@@ -1,0 +1,78 @@
+{
+  "query": "Общие и базовые запросы:",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:46:25.588Z",
+  "options": {
+    "groupby": 10,
+    "page": 3,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 9,
+  "results": [
+    {
+      "title": "Ручной тестировщик ПО (Начальный уровень) — it-ros.ru",
+      "url": "https://it-ros.ru/edu/127-ruchnoi-testirovschik-po-nachalnyi-uroven.html",
+      "snippet": "Напишите GET-запрос для получения информации о пользователе с ID=5 через Postman.... Изучите базовые навыки тестирования, научитесь находить баги и создавать отчеты.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "что такое вложенные запросы в яндекс директ",
+      "url": "https://info.epubbooks.ru/chto-takoe-vlozhennye-zaprosy-v-yandeks-direkt",
+      "snippet": "Вложенные запросы – это запросы, которые содержат в себе часть базовой ключевой фразы, но имеют уточнения.... После этого вы увидите, что на самом деле не так много пользователей вводят общие запросы.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "ЗНАНИЕ",
+      "url": "https://sh-assabskaya-s-assabskaya-r82.gosweb.gosuslugi.ru/netcat_files/188/2836/Znanie.pdf",
+      "snippet": "При разработке учебных планов начального общего и основного общего образования образовательная организация формирует обязательную часть на основе одного из вариантов федерального учебного плана...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Как составить SQL запрос к базе данных",
+      "url": "https://ggf360.ru/shema/detal/kak-sdelat-sql-zapros-k-baze-dannix",
+      "snippet": "Основной задачей запроса является извлечение, вставка, обновление или удаление данных.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Делаем интернет понятнее: Бенчмаркинг, CJM...",
+      "url": "https://dsgners.ru/artem-konakov/3578-delaem-internet-ponyatnee-benchmarking-cjm-yuzabiliti-audit",
+      "snippet": "Основной запрос, с которым я работаю — это желание расти и масштабироваться.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "DeepSeek: Секреты мастерства для новичков...",
+      "url": "https://deepseek-ai.ru/deepseek-sekrety-masterstva-dlya-novichkov-i-professionalov/",
+      "snippet": "Начните с базовых запросов, постепенно внедряя продвинутые функции.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Пахомова Светлана Сергеевна, к.ф.н., преподаватель...",
+      "url": "http://петроколледж.рф/upload/petrocollegenew/information_system_132/1/0/2/item_10248/information_items_property_17118.pdf",
+      "snippet": "(БАЗОВЫЕ результаты освоения программы).... 5.Способы хранения и основные виды хранилищ информации 6.Принципы и область применимости сжатия с потерями, принципы сжатия информации Работа с архивами.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Как создать сайт на 1С Битрикс: установка и настройка...",
+      "url": "https://key-client.ru/blog/kak-sdelat-sajt-na-1s-bitriks/?lang=ru",
+      "snippet": "Пошаговая инструкция, как сделать сайт на 1С Битрикс: от установки системы до базовой настройки.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Работа с агентами :: R-Vision SIEM. Руководство...",
+      "url": "https://docs.rvision.ru/siem/latest/ru/endpoint/Agents.html",
+      "snippet": "На вкладке Общее отображается основная информация об агенте.",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

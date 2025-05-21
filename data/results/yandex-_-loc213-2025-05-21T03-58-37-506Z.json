@@ -1,0 +1,85 @@
+{
+  "query": "кредиты малому бизнесу",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:58:37.506Z",
+  "options": {
+    "groupby": 10,
+    "page": 10,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "ВТБ начал прием заявок от системообразующих...",
+      "url": "https://www.prs-wedding.ru/190525/novosti-vtb-kredit-dlya-yuridicheskih-lits/",
+      "snippet": "Тарифы по кредитованию в ВТБ 24Путь предпринимателя: 7 банков, дающих кредиты малому и среднему бизнесуДругие новости компании",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Банк Уралсиб вошел в Топ-10 по объемам кредитования...",
+      "url": "https://finomb.arb.ru/b2b/press/bank_uralsib_voshel_v_top_10_po_obemam_kreditovaniya_malogo_i_srednego_biznesa-10614515/",
+      "snippet": "Всего за 2022 год субъектам малого и среднего предпринимательства банк выдал кредитов на сумму 51,7 млрд рублей.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Эксперты прогнозируют замедление кредитования...",
+      "url": "https://marketpower.pro/publications/eksperty-prognoziruiut-zamedlenie-kreditovaniia-malogo-i-srednego-biznesa-v-2025-godu",
+      "snippet": "Эксперты прогнозируют замедление кредитования малого и среднего бизнеса в 2025 году.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование",
+      "url": "https://zabbix.novatour.ru/services/smallbusiness/credit.php",
+      "snippet": "Кредитование малого и среднего бизнеса является одним из стратегических направлений Банка.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Проблемы развития рынка банковского кредитования...",
+      "url": "https://library.cbr.ru/catalog/lib/article/996193/",
+      "snippet": "Целью статьи выступает анализ проблем развития рынка банковского кредитования малого и среднего бизнеса в России.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Предприниматели получили первые инвестиционные...",
+      "url": "https://бизнесюгры.рф/keep-up/news/predprinimateli-poluchili-pervye-investitsionnye-kredity-po-lgotnoy-programme-pravitelstva-rossii",
+      "snippet": "«Доля льготных государственных программ для среднего и малого бизнеса, в которых принимает участие ВТБ, достигает 20% в общем кредитном...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "В Москве продлили программы льготного кредитования...",
+      "url": "https://investmoscow.ru/press-center/news-article/?article=325611",
+      "snippet": "Финансовую поддержку от города могут получить субъекты малого и среднего бизнеса, реализующие продукцию на условиях отсрочки платежа.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Малый бизнес может получить займы от 5 млн рублей на...",
+      "url": "https://мсп.рф/services/news/detail/malyy-biznes-mozhet-poluchit-zaymy-ot-5-mln-rubley-na-msp-rf-po-stavkam-5-7-godovykh/",
+      "snippet": "Малый бизнес привлек более 5 млрд рублей по низкой ставке через сервис МСП.РФ.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредиты для ИП и юридических лиц в Альфа-Банке — 10...",
+      "url": "https://www.kazan-potolok.ru/200525/novosti-alfa-bank-dlya-biznesa-kredit/",
+      "snippet": "Особенности оборотного кредита Альфа-Банка для малого бизнеса Лимит определяется исходя из оборотов по счёту.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Новости и пресс-релизы Московской биржи — Московская...",
+      "url": "https://www.moex.com/n90356",
+      "snippet": "20.05.2025 состоится депозитный аукцион Фонда содействия кредитованию малого бизнеса Москвы.",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

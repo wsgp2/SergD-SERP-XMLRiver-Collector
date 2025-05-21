@@ -1,0 +1,85 @@
+{
+  "query": "кредит для бизнеса",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:49:25.502Z",
+  "options": {
+    "groupby": 10,
+    "page": 3,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "rusinvestproject.ru/catalog/?request_region[]=russia&amp;request...",
+      "url": "https://rusinvestproject.ru/catalog/?request_region[]=russia&request_group[]=service_business&request_slider_min=0&request_slider_max=1000000000000&request_status_lender=1",
+      "snippet": "Предоставим бизнесу кредит без банка на развитие инвстпроектов и готового бизнеса Компания предоставляет возможности для развития вашего...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Тарифы и комиссии банка ВТБ для малого и среднего...",
+      "url": "https://web.archive.org/web/20231203001713/https://www.vtb.ru/malyj-biznes/tarify-i-komissii/",
+      "snippet": "Расчетный счет Регистрация бизнеса Кредиты Бизнес-карты Эквайринг Депозиты ВЭД Гарантии и аккредитивы Сервисы для бизнеса Другие продукты...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование бизнеса от Морского Банка",
+      "url": "https://shemelov.com/?_=/for-corporate/kreditovanie/#5dPFX+wrbLDOINBaF8tg5+TK1E23aijp2jiT",
+      "snippet": "Авансовый овердрафт, классический овердрафт, универсальные кредиты и другие способы кредитования бизнеса от Морского Банка.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Виды кредитов для бизнеса",
+      "url": "https://www.luxecorp.ru/blog/finansy/vidy-kreditov-dlya-biznesa/",
+      "snippet": "Какие бывают кредиты для бизнеса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Как получить кредит на бизнес, если вы ИП или юрлицо?",
+      "url": "https://innopolis.money-mentor.ru/blog/kak-ip-ili-ooo-vzyat-kredit-na-biznes/",
+      "snippet": "Для получения кредита на развитие бизнеса важно предоставить качественный бизнес-план.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Примсоцбанк расширяет возможности для малого...",
+      "url": "https://bankinform.ru/news/137688",
+      "snippet": "Ознакомиться с подробной информацией об условиях и подать заявку на оформление кредита «Бизнес-Универсальный» вы можете онлайн...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Как взять кредит на развитие малого бизнеса: пошагово...",
+      "url": "https://dzen.ru/a/aCyQFk1vR1SJUYLa",
+      "snippet": "Рассказываем, как шаг за шагом подготовиться к получению кредита на развитие бизнеса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Льготное кредитование МСП — условия получения...",
+      "url": "https://vk.com/wall-224309520_76",
+      "snippet": "Кредит на бизнес от государства в рамках программы 1764 могут получить компании из разных отраслей экономики:торговля — розничная и...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "psbank.ru/business/cashservice/islamic-banking",
+      "url": "https://www.psbank.ru/business/cashservice/islamic-banking",
+      "snippet": "Малому бизнесу.... Кредиты. Регистрация бизнеса.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование для бизнеса малого и большого",
+      "url": "https://uprice.pro/kreditovanie-biznesa/",
+      "snippet": "Как оформить кредит для малого бизнеса В этом руководстве мы расскажем вам о принципах работы кредитов для малого бизнеса и пошагово...",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "query": "кредиты малому бизнесу",
+  "engine": "YANDEX",
+  "timestamp": "2025-05-21T03:51:02.009Z",
+  "options": {
+    "groupby": 10,
+    "page": 4,
+    "filter": 1,
+    "within": 2,
+    "loc": 213
+  },
+  "resultsCount": 10,
+  "results": [
+    {
+      "title": "Уралсиб вошел в топ-10 банков по объемам... | Юга.ру",
+      "url": "https://www.yuga.ru/news/477453-uralsib-voshel-v-top-10-bankov-po-obemam-kreditovaniya-malogo-i-srednego-biznesa/",
+      "snippet": "За 2024 год представителям малого и среднего бизнеса банк выдал 73,1 млрд рублей кредитов.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Анализ банковского кредитования малого и среднего...",
+      "url": "https://cyberleninka.ru/article/n/analiz-bankovskogo-kreditovaniya-malogo-i-srednego-biznesa",
+      "snippet": "Банковское кредитование субъектов малого и среднего бизнеса имеет свои особенности и вызовы, однако при правильном подходе может стать...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Как выбрать оптимальный кредит для малого бизнеса",
+      "url": "https://dzen.ru/a/aCq0nkB_1zj2JPvP",
+      "snippet": "\"Грамотный подход к выбору кредита для малого бизнеса позволяет не только получить необходимые средства, но и обеспечить их эффективное...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Кредитование малого и среднего бизнеса | Обучение от...",
+      "url": "https://study.schoolvrn.ru/maliy_i_sredniy_biznes_obuchenie_ot_bankov",
+      "snippet": "Кредитование МСБ: требования, программы, залоги, банковские гарантии.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "В России начали выдавать первые льготные...",
+      "url": "https://iz.ru/1879389/2025-04-30/v-rossii-nacali-vydavat-pervye-lgotnye-investkredity-po-obnovlennoi-programme",
+      "snippet": "В России в рамках программы льготного кредитования малого и среднего предпринимательства (МСП) заключены первые кредитные договоры...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Российские банки поменяли условия банковского...",
+      "url": "https://news.mail.ru/economics/65850333/",
+      "snippet": "Количество малых и средних предприятий, внесенных в реестр субъектов МСП, к апрелю 2025 года достигло 6,7 млн...",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "ВТБ начал прием заявок от системообразующих...",
+      "url": "https://www.prs-wedding.ru/190525/novosti-vtb-kredit-dlya-yuridicheskih-lits/",
+      "snippet": "Тарифы по кредитованию в ВТБ 24Путь предпринимателя: 7 банков, дающих кредиты малому и среднему бизнесуДругие новости компании",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Банк Уралсиб вошел в Топ-10 по объемам кредитования...",
+      "url": "https://kuban24.tv/item/bank-uralsib-voshel-v-top-10-po-obemam-kreditovaniya-malogo-i-srednego-biznesa",
+      "snippet": "Всего за 2024 год субъектам малого и среднего бизнеса банк выдал кредитов на сумму 73,1 млрд рублей.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Уралсиб вошел в Топ-10 рейтинга по объемам...",
+      "url": "https://www.dk.ru/news/237221577?erid=2W5zFGZGPdA",
+      "snippet": "Всего за 2024 г. субъектам малого и среднего бизнеса банк выдал кредитов на сумму 73,1 млрд руб.",
+      "domain": "",
+      "position": 1
+    },
+    {
+      "title": "Уралсиб попал в Топ-10 по объемам кредитования...",
+      "url": "https://chel.aif.ru/society/uralsib-popal-v-top-10-po-obemam-kreditovaniya-malogo-i-srednego-biznesa?erid=2W5zFGKwr1n",
+      "snippet": "Всего за 2024 год субъектам малого и среднего бизнеса банк выдал кредитов на сумму 73,1 млрд рублей.",
+      "domain": "",
+      "position": 1
+    }
+  ]
+}

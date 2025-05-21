@@ -1,0 +1,14 @@
+{
+  "query": "Общие и базовые запросы:",
+  "engine": "GOOGLE",
+  "timestamp": "2025-05-21T03:47:05.281Z",
+  "options": {
+    "groupby": 10,
+    "page": 2,
+    "filter": 1,
+    "within": 2,
+    "country": 2008
+  },
+  "resultsCount": 0,
+  "results": []
+}
