@@ -219,6 +219,7 @@ async function collectDataForQuery(query, cityName, cityCode, maxRetries = 3, de
 // Создаем директории для результатов
 const RESULTS_DIR = path.join(__dirname, 'data', 'results', 'bfl');
 const INTERMEDIATE_DIR = path.join(RESULTS_DIR, 'intermediate');
+const PROGRESS_FILE = path.join(RESULTS_DIR, 'progress.json');
 
 // Сохраняет результаты в файл
 function saveResults(data, fileName, isIntermediate = false) {
@@ -229,11 +230,48 @@ function saveResults(data, fileName, isIntermediate = false) {
     const filePath = path.join(targetDir, `${fileName}.json`);
     fs.writeJsonSync(filePath, data, { spaces: 2 });
     console.log(`💾 ${isIntermediate ? 'Промежуточные' : 'Итоговые'} результаты сохранены в ${filePath}`);
+    
     return filePath;
   } catch (error) {
     console.error(`❌ Ошибка при сохранении результатов: ${error.message}`);
     return null;
   }
+}
+
+// Сохранить прогресс выполнения
+function saveProgress(progress) {
+  try {
+    fs.ensureDirSync(RESULTS_DIR);
+    fs.writeJsonSync(PROGRESS_FILE, progress, { spaces: 2 });
+    return true;
+  } catch (error) {
+    console.error(`❌ Ошибка при сохранении прогресса: ${error.message}`);
+    return false;
+  }
+}
+
+// Загрузить прогресс выполнения
+function loadProgress() {
+  try {
+    if (fs.existsSync(PROGRESS_FILE)) {
+      console.log(`📂 Загрузка сохраненного прогресса из ${PROGRESS_FILE}`);
+      return fs.readJsonSync(PROGRESS_FILE);
+    }
+  } catch (error) {
+    console.error(`❌ Ошибка при загрузке прогресса: ${error.message}`);
+  }
+  
+  return {
+    completedTasks: [],
+    lastResults: null
+  };
+}
+
+// Проверка, была ли задача уже выполнена
+function isTaskCompleted(progress, keyword, cityName) {
+  return progress.completedTasks.some(task => 
+    task.keyword === keyword && task.cityName === cityName
+  );
 }
 
 // Создает CSV-отчет с результатами
@@ -244,129 +282,170 @@ function createCsvReport(results, fileName) {
     
     const filePath = path.join(RESULTS_DIR, `${fileName}.csv`);
     
-    // Экранируем кавычки и запятые в полях
-    const escapeCSV = (field) => {
-      if (field === undefined || field === null) return '';
-      const str = String(field);
-      if (str.includes(',') || str.includes('"') || str.includes('\n')) {
-        return `"${str.replace(/"/g, '""')}"`;  
-      }
-      return str;
-    };
+    // CSV заголовок
+    // Добавляем BOM маркер для корректного отображения кириллицы
+    let csvContent = '\ufeff' + 'keyword,city,engine,position,title,url,snippet\n';
     
-    // Заголовки CSV
-    let csvContent = 'keyword,city,engine,position,title,url,snippet\n';
-    
-    // Заполняем данными
-    Object.values(results.citiesData).forEach(cityData => {
-      Object.entries(cityData.keywords).forEach(([keyword, data]) => {
-        // Результаты Яндекса
-        if (data.yandex && data.yandex.uniqueResults) {
-          data.yandex.uniqueResults.forEach((result, index) => {
-            csvContent += `${escapeCSV(keyword)},${escapeCSV(cityData.code)},YANDEX,${index + 1},${escapeCSV(result.title)},${escapeCSV(result.url)},${escapeCSV(result.snippet)}\n`;
+    // Перебираем все города
+    Object.keys(results.citiesData).forEach(cityName => {
+      const cityData = results.citiesData[cityName];
+      
+      // Перебираем все ключевые слова для города
+      Object.keys(cityData.keywords).forEach(keyword => {
+        const keywordData = cityData.keywords[keyword];
+        
+        // Добавляем данные из Yandex
+        if (keywordData.yandex && keywordData.yandex.results) {
+          keywordData.yandex.results.forEach((result, index) => {
+            // Экранируем кавычки и запятые в полях
+            const escapedTitle = result.title ? `"${result.title.replace(/"/g, '""')}"` : '';
+            const escapedSnippet = result.snippet ? `"${result.snippet.replace(/"/g, '""')}"` : '';
+            
+            csvContent += `"${keyword}","${cityName}","YANDEX",${index + 1},"Результат #${index + 1}","${result.url}",${escapedSnippet}\n`;
           });
         }
         
-        // Результаты Google
-        if (data.google && data.google.uniqueResults) {
-          data.google.uniqueResults.forEach((result, index) => {
-            csvContent += `${escapeCSV(keyword)},${escapeCSV(cityData.code)},GOOGLE,${index + 1},${escapeCSV(result.title)},${escapeCSV(result.url)},${escapeCSV(result.snippet)}\n`;
+        // Добавляем данные из Google
+        if (keywordData.google && keywordData.google.results) {
+          keywordData.google.results.forEach((result, index) => {
+            // Экранируем кавычки и запятые в полях
+            const escapedTitle = result.title ? `"${result.title.replace(/"/g, '""')}"` : '';
+            const escapedSnippet = result.snippet ? `"${result.snippet.replace(/"/g, '""')}"` : '';
+            
+            csvContent += `"${keyword}","${cityName}","GOOGLE",${index + 1},"Результат #${index + 1}","${result.url}",${escapedSnippet}\n`;
           });
         }
       });
     });
     
-    fs.writeFileSync(filePath, csvContent);
-    console.log(`✅ CSV отчет сохранен в ${filePath}`);
+    // Записываем в файл с указанием кодировки UTF-8
+    fs.writeFileSync(filePath, csvContent, { encoding: 'utf8' });
+    
+    console.log(`📝 CSV-отчет сохранен в ${filePath}`);
+    
     return filePath;
   } catch (error) {
-    console.error(`❌ Ошибка при создании CSV отчета: ${error.message}`);
+    console.error(`❌ Ошибка при создании CSV-отчета: ${error.message}`);
     return null;
   }
 }
 
 // Основная функция
 async function main() {
-  console.log('🚀 Запуск сбора данных по банкротству физлиц');
+  console.log('🚀 Запуск сбора данных по банкротству физлиц с возможностью возобновления');
+  
+  // Создаем директории, если их нет
+  fs.ensureDirSync(RESULTS_DIR);
+  fs.ensureDirSync(INTERMEDIATE_DIR);
   
   // Загружаем ключевые слова из файла
   const keywords = loadKeywords();
   
-  // Создаем структуру данных для результатов
-  const allResults = {
-    startTime: new Date().toISOString(),
-    keywords: keywords,
-    totalKeywords: keywords.length,
-    totalCities: CITIES.length,
-    citiesData: {}
-  };
+  // Загружаем сохраненный прогресс
+  const progress = loadProgress();
+  console.log(`🔄 Загружен прогресс: ${progress.completedTasks.length} завершенных задач`);
   
-  // Инициализируем данные для всех городов
-  CITIES.forEach(city => {
-    allResults.citiesData[city.name] = {
-      code: city.code,
-      keywords: {},
-      startTime: new Date().toISOString()
+  // Загружаем последние результаты, если они есть
+  let allResults = progress.lastResults;
+  
+  // Если нет сохраненных результатов, создаем новую структуру
+  if (!allResults) {
+    allResults = {
+      startTime: new Date().toISOString(),
+      keywords: keywords,
+      totalKeywords: keywords.length,
+      totalCities: CITIES.length,
+      citiesData: {}
     };
-  });
+    
+    // Инициализируем данные для всех городов
+    CITIES.forEach(city => {
+      allResults.citiesData[city.name] = {
+        code: city.code,
+        keywords: {},
+        startTime: new Date().toISOString()
+      };
+    });
+  }
   
   // Создаем очередь задач с ограничением параллельных задач
   const taskQueue = new TaskQueue(MAX_CONCURRENT);
   
-  // Массив для хранения результатов
-  const results = [];
+  // Общее количество задач и счетчик завершенных
+  const totalTasks = keywords.length * CITIES.length;
+  let completedTasks = progress.completedTasks.length;
+  const startTime = Date.now();
   
   console.log(`📈 Сбор данных для ${keywords.length} ключевых фраз и ${CITIES.length} городов`);
   console.log(`⚙️ Настройки сбора: максимальное количество параллельных задач: ${MAX_CONCURRENT}`);
+  console.log(`🔄 Уже выполнено: ${completedTasks}/${totalTasks} задач (${((completedTasks / totalTasks) * 100).toFixed(1)}%)`);
+  
   
   // Перебираем все города и запросы
   const promises = [];
-  const totalTasks = keywords.length * CITIES.length;
-  let completedTasks = 0;
-  const startTime = Date.now();
+  let tasksCount = 0;
   
   for (const city of CITIES) {
     for (const keyword of keywords) {
-      // Создаем задачу и добавляем ее в очередь с ограничением параллельных задач
-      promises.push(taskQueue.add(() => {
-        return collectDataForQuery(keyword, city.name, city.code)
-          .then(result => {
-            completedTasks++;
-            
-            // Сохраняем результаты в структуре данных
-            if (!allResults.citiesData[city.name].keywords[keyword]) {
-              allResults.citiesData[city.name].keywords[keyword] = {
-                yandex: result.yandex,
-                google: result.google,
+      // Проверяем, была ли эта задача уже выполнена
+      if (!isTaskCompleted(progress, keyword, city.name)) {
+        tasksCount++;
+        // Создаем задачу и добавляем ее в очередь с ограничением параллельных задач
+        promises.push(taskQueue.add(() => {
+          return collectDataForQuery(keyword, city.name, city.code)
+            .then(result => {
+              completedTasks++;
+              
+              // Сохраняем данные в структуру
+              if (!allResults.citiesData[city.name].keywords[keyword]) {
+                allResults.citiesData[city.name].keywords[keyword] = {
+                  yandex: result.yandex,
+                  google: result.google,
+                  timestamp: new Date().toISOString()
+                };
+              }
+              
+              // Обновляем время окончания для города
+              allResults.citiesData[city.name].endTime = new Date().toISOString();
+              
+              // Добавляем задачу в список выполненных
+              progress.completedTasks.push({
+                keyword,
+                cityName: city.name,
                 timestamp: new Date().toISOString()
-              };
-            }
-            
-            // Обновляем время окончания для города
-            allResults.citiesData[city.name].endTime = new Date().toISOString();
-            
-            // Расчет прогресса и оценка оставшегося времени
-            const percent = ((completedTasks / totalTasks) * 100).toFixed(1);
-            const elapsedSeconds = Math.round((Date.now() - startTime) / 1000);
-            const averageTimePerTask = elapsedSeconds / completedTasks;
-            const remainingTasks = totalTasks - completedTasks;
-            const remainingSeconds = Math.round(averageTimePerTask * remainingTasks);
-            const remainingMinutes = Math.floor(remainingSeconds / 60);
-            const remainingSecondsDisplay = remainingSeconds % 60;
-            
-            console.log(`⏱️ Прогресс: ${percent}% (${completedTasks}/${totalTasks}), Осталось: ${remainingMinutes}м ${remainingSecondsDisplay}с, Активных потоков: ${taskQueue.running}/${MAX_CONCURRENT}`);
-            
-            // Промежуточное сохранение результатов после каждой 5-й задачи
-            if (completedTasks % 5 === 0) {
-              // Обновляем время окончания
-              allResults.endTime = new Date().toISOString();
-              const intermediateFileName = `intermediate_results_${completedTasks}_of_${totalTasks}`;
-              saveResults(allResults, intermediateFileName, true);
-            }
-            
-            return result;
-          });
-      }));
+              });
+              
+              // Обновляем последние результаты в прогрессе
+              progress.lastResults = allResults;
+              
+              // Сохраняем прогресс после каждой задачи
+              saveProgress(progress);
+              
+              // Расчет прогресса и оценка оставшегося времени
+              const percent = ((completedTasks / totalTasks) * 100).toFixed(1);
+              const elapsedSeconds = Math.round((Date.now() - startTime) / 1000);
+              const averageTimePerTask = elapsedSeconds / completedTasks;
+              const remainingTasks = totalTasks - completedTasks;
+              const remainingSeconds = Math.round(averageTimePerTask * remainingTasks);
+              const remainingMinutes = Math.floor(remainingSeconds / 60);
+              const remainingSecondsDisplay = remainingSeconds % 60;
+              
+              console.log(`⏱️ Прогресс: ${percent}% (${completedTasks}/${totalTasks}), Осталось: ${remainingMinutes}м ${remainingSecondsDisplay}с, Активных потоков: ${taskQueue.running}/${MAX_CONCURRENT}`);
+              
+              // Промежуточное сохранение результатов после каждой 5-й задачи
+              if (completedTasks % 5 === 0) {
+                // Обновляем время окончания
+                allResults.endTime = new Date().toISOString();
+                const intermediateFileName = 'intermediate_results';
+                saveResults(allResults, intermediateFileName, true);
+              }
+              
+              return result;
+            });
+        }));
+      } else {
+        console.log(`✅ Задача ${keyword} для города ${city.name} уже выполнена, пропускаем...`);
+      }
     }
   }
   
@@ -409,11 +488,31 @@ async function main() {
     console.log(`   ✅ Выполнено: ${completedTasks}`);
     console.log(`   💸 Успешность: ${((completedTasks / totalTasks) * 100).toFixed(1)}%`);
     console.log(`   ⏱️ Время выполнения: ${minutes}м ${seconds}с`);
+    
+    // Если все задачи выполнены, удаляем файл прогресса
+    if (completedTasks >= totalTasks) {
+      try {
+        if (fs.existsSync(PROGRESS_FILE)) {
+          fs.removeSync(PROGRESS_FILE);
+          console.log(`🗑️ Файл прогресса удален, все задачи выполнены`);
+        }
+      } catch (error) {
+        console.error(`❌ Ошибка при удалении файла прогресса: ${error.message}`);
+      }
+    }
   } catch (error) {
     console.error(`💥 Ошибка при выполнении задач: ${error.message}`);
     
-    // Сохраняем частичные результаты при ошибке
+    // Сохраняем прогресс и частичные результаты при ошибке
     try {
+      // Сохраняем прогресс, чтобы можно было продолжить позже
+      if (progress && progress.completedTasks) {
+        // Обновляем последние результаты в прогрессе
+        progress.lastResults = allResults;
+        saveProgress(progress);
+        console.log(`🔄 Прогресс сохранен с ${progress.completedTasks.length} выполненными задачами. Вы можете продолжить позже.`);
+      }
+      
       allResults.error = error.message;
       allResults.endTime = new Date().toISOString();
       
